@@ -154,7 +154,6 @@ input:focus, select:focus { border-color: var(--red); outline: none; }
 
 /* ---------- Method / footer ---------- */
 .cols3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 36px; }
-.data-links { margin-top: 36px; }
 .method p { color: var(--ink-2); font-size: 14.5px; margin: 0; overflow-wrap: anywhere; }
 .method u { text-decoration-color: var(--red); }
 .method p.fine { margin-top: 28px; padding-top: 18px; border-top: 1px solid var(--line); font-size: 13px; color: var(--ink-3); }
