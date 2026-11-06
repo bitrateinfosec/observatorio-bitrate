@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observatorio BitRate · Ransomware y amenazas en Argentina</title>
+<meta name="description" content="Observatorio público de ransomware e infraestructura maliciosa en Argentina. Un proyecto de Bitrate Infosec.">
+<meta property="og:title" content="Observatorio BitRate">
+<meta property="og:description" content="Ransomware e infraestructura maliciosa en Argentina, con datos públicos y actualización automática.">
+<meta name="theme-color" content="#0A0A0A">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#panorama">Saltar al contenido</a>
+
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#" aria-label="Observatorio BitRate, inicio">
+      <img src="assets/logo-mark.svg" alt="" width="44" height="37">
+      <span class="brand-txt">
+        <span class="brand-name">BITRATE</span>
+        <span class="brand-sub"><i></i>OBSERVATORIO</span>
+      </span>
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="#panorama">Panorama</a>
+      <a href="#victimas">Víctimas</a>
+      <a href="#iocs">IOCs</a>
+      <a href="#metodologia">Metodología</a>
+    </nav>
+    <div class="live" id="live" title="Última actualización"><span class="dot"></span><span id="updated">Cargando…</span></div>
+  </div>
+</header>
+
+<div class="demo-banner" id="demoBanner" hidden>
+  MODO DEMOSTRACIÓN · Los datos que ves son <b>ficticios</b>, generados para probar el sitio.
+</div>
+
+<main>
+  <section class="hero wrap" id="panorama">
+    <p class="kicker"><span class="bar"></span>Threat intelligence · Argentina</p>
+    <h1>Ransomware e infraestructura maliciosa en Argentina, <em>a la vista</em>.</h1>
+    <p class="lede">Seguimos lo que los grupos de ransomware publican sobre organizaciones argentinas y los indicadores de compromiso alojados en redes del país. Solo usamos fuentes públicas y el sitio se actualiza solo.</p>
+
+    <div class="kpis" id="kpis" aria-live="polite">
+      <div class="kpi"><span class="kpi-n" data-k="victims_30d">—</span><span class="kpi-l">víctimas reivindicadas<br>últimos 30 días</span></div>
+      <div class="kpi"><span class="kpi-n" data-k="victims_7d">—</span><span class="kpi-l">víctimas reivindicadas<br>últimos 7 días</span></div>
+      <div class="kpi"><span class="kpi-n" data-k="groups_30d">—</span><span class="kpi-l">grupos activos<br>últimos 30 días</span></div>
+      <div class="kpi"><span class="kpi-n" data-k="iocs_7d">—</span><span class="kpi-l">IOCs nuevos en AR<br>últimos 7 días</span></div>
+    </div>
+  </section>
+
+  <section class="wrap block">
+    <div class="block-head">
+      <h2>Víctimas reivindicadas por mes</h2>
+      <p class="muted">Últimos 12 meses · por fecha de publicación del grupo</p>
+    </div>
+    <div class="chart" id="timeline" role="img" aria-label="Víctimas por mes"></div>
+  </section>
+
+  <section class="wrap grid2">
+    <div class="block">
+      <div class="block-head"><h2>Grupos más activos</h2><p class="muted">Histórico</p></div>
+      <div class="hbars" id="groups"></div>
+    </div>
+    <div class="block">
+      <div class="block-head"><h2>Sectores afectados</h2><p class="muted">Histórico</p></div>
+      <div class="hbars" id="sectors"></div>
+    </div>
+  </section>
+
+  <section class="wrap block" id="victimas">
+    <div class="block-head">
+      <h2>Víctimas reivindicadas</h2>
+      <p class="muted">Que un grupo reivindique un ataque no confirma que el incidente haya ocurrido.</p>
+    </div>
+    <div class="filters">
+      <input type="search" id="vSearch" placeholder="Buscar organización…" aria-label="Buscar organización">
+      <select id="vGroup" aria-label="Filtrar por grupo"><option value="">Todos los grupos</option></select>
+      <select id="vSector" aria-label="Filtrar por sector"><option value="">Todos los sectores</option></select>
+      <span class="count" id="vCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table class="tbl">
+        <thead><tr><th>Fecha</th><th>Organización</th><th>Grupo</th><th>Sector</th></tr></thead>
+        <tbody id="vBody"></tbody>
+      </table>
+    </div>
+    <div class="pager" id="vPager"></div>
+  </section>
+
+  <section class="wrap block" id="iocs">
+    <div class="block-head">
+      <h2>Indicadores de compromiso en infraestructura argentina</h2>
+      <p class="muted">Servidores C2, URLs que distribuyen malware e IOCs alojados en redes del país. Se muestran “desactivados” (hxxp, [.]).</p>
+    </div>
+    <div class="grid2 tight">
+      <div><h3>Redes con más IOCs</h3><div class="hbars" id="asns"></div></div>
+      <div><h3>Familias de malware</h3><div class="hbars" id="malware"></div></div>
+    </div>
+    <div class="filters">
+      <input type="search" id="iSearch" placeholder="Buscar IOC, malware o ASN…" aria-label="Buscar IOC">
+      <select id="iType" aria-label="Filtrar por tipo">
+        <option value="">Todos los tipos</option><option value="ip:port">IP:puerto</option><option value="url">URL</option><option value="domain">Dominio</option>
+      </select>
+      <button class="btn" id="iCsv" type="button">Descargar CSV</button>
+      <span class="count" id="iCount"></span>
+    </div>
+    <div class="table-wrap">
+      <table class="tbl mono-col">
+        <thead><tr><th>Visto</th><th>Indicador</th><th>Malware</th><th>Red</th><th>Fuente</th></tr></thead>
+        <tbody id="iBody"></tbody>
+      </table>
+    </div>
+    <div class="pager" id="iPager"></div>
+  </section>
+
+  <section class="wrap block method" id="metodologia">
+    <div class="block-head"><h2>Metodología y aviso</h2></div>
+    <div class="cols3">
+      <div>
+        <h3>Fuentes</h3>
+        <p>Víctimas: <a href="https://www.ransomware.live" rel="noopener">ransomware.live</a>, que indexa los sitios de filtración de los grupos. IOCs: <a href="https://abuse.ch" rel="noopener">abuse.ch</a> (ThreatFox, URLhaus y Feodo Tracker). Geolocalización: <a href="https://db-ip.com" rel="noopener">IP Geolocation by DB-IP</a> (CC BY 4.0).</p>
+      </div>
+      <div>
+        <h3>Qué <u>no</u> hacemos</h3>
+        <p>No accedemos a sitios .onion ni descargamos, alojamos o enlazamos datos filtrados. Solo registramos metadatos: quién aparece, cuándo y qué grupo lo reivindica.</p>
+      </div>
+      <div>
+        <h3>Correcciones</h3>
+        <p>Si tu organización aparece por error o el incidente ya fue aclarado, escribinos a <a href="mailto:bitrateinfosec@gmail.com" id="contact">bitrateinfosec@gmail.com</a> y lo revisamos.</p>
+      </div>
+    </div>
+    <p class="fine">Los grupos de ransomware publican reivindicaciones con fines extorsivos y a veces exageran o mienten. Este sitio tiene fines informativos y de concientización. Una aparición acá no implica responsabilidad ni negligencia de la organización.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span class="brand-mini"><img src="assets/logo-mark.svg" alt="" width="26" height="22"> BITRATE <span class="red">—</span> INFOSEC</span>
+    <span class="muted">Observatorio BitRate · Código abierto · Datos públicos</span>
+  </div>
+</footer>
+
+<div class="tip" id="tip" role="tooltip" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

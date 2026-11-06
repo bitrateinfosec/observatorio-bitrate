@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="305 278 480 404" role="img" aria-label="Bitrate">
+  <g fill="none" stroke-width="15" stroke-linejoin="miter" stroke-linecap="butt">
+    <path stroke="#FFFFFF" d="M382 460 V388 L540 297 L698 388 V460"/>
+    <path stroke="#FFFFFF" d="M382 500 V572 L540 663 L698 572 V500"/>
+    <path stroke="#FF0000" d="M338 480 H451 V402 H498 V558 H550 V438 H592 V480 H745"/>
+  </g>
+  <circle cx="331" cy="480" r="13" fill="#FFFFFF"/>
+  <circle cx="752" cy="480" r="21" fill="#FF0000"/>
+</svg>

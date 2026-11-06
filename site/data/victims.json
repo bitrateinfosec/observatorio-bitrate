@@ -1,0 +1,2252 @@
+[
+ {
+  "id": "75e410db64d7516a",
+  "name": "Aripack",
+  "group_name": "play",
+  "sector": "Industria",
+  "website": "www.aripack.com",
+  "published": "2026-11-04T21:20:44",
+  "discovered": "2026-11-04T21:21:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "6718be94b6eaf2e2",
+  "name": "everon.com.ar",
+  "group_name": "safepay",
+  "sector": "Other",
+  "website": "everon.com.ar",
+  "published": "2026-10-31T08:01:02",
+  "discovered": "2026-10-31T08:01:16",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "1b4c55479e8c6722",
+  "name": "REFSA S.A.",
+  "group_name": "nightspire",
+  "sector": "Other",
+  "website": "recursosyenergia.com.ar",
+  "published": "2026-10-31T00:00:00",
+  "discovered": "2026-11-02T22:26:30",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "8bca5f798e8fccf7",
+  "name": "NOVADATA",
+  "group_name": "thegentlemen",
+  "sector": "Tecnología",
+  "website": "novadata.com.ar",
+  "published": "2026-10-30T11:39:33",
+  "discovered": "2026-10-31T07:19:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "49ae93fc7623c6f0",
+  "name": "Partido Liberal",
+  "group_name": "whitearmor",
+  "sector": "Government & Defense",
+  "website": null,
+  "published": "2026-10-25T16:00:00",
+  "discovered": "2026-10-25T16:56:33",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0364f77ee3636fc1",
+  "name": "Asisken Asistencia Médica S.A.",
+  "group_name": "n0n",
+  "sector": "Salud",
+  "website": null,
+  "published": "2026-10-24T09:53:42",
+  "discovered": "2026-10-24T09:53:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "36b846cf5a3da471",
+  "name": "MaxiSeguridad",
+  "group_name": "qilin",
+  "sector": "Professional Services",
+  "website": "www.maxiseguridad.com.ar",
+  "published": "2026-10-23T16:25:31",
+  "discovered": "2026-10-23T16:25:48",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "972d9d611da43beb",
+  "name": "Aryza",
+  "group_name": "qilin",
+  "sector": "Tecnología",
+  "website": "www.aryza.com",
+  "published": "2026-10-23T15:26:09",
+  "discovered": "2026-10-23T15:26:27",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "245fd479cea04fcc",
+  "name": "clinicaromero.com",
+  "group_name": "braincipher",
+  "sector": "Salud",
+  "website": "clinicaromero.com",
+  "published": "2026-10-21T20:54:28",
+  "discovered": "2026-10-21T20:54:47",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a53ffa241e73c27e",
+  "name": "Grupo Cronica",
+  "group_name": "qilin",
+  "sector": "Other",
+  "website": "www.grupocronica.com.ar",
+  "published": "2026-10-19T14:53:06",
+  "discovered": "2026-10-19T14:53:29",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "d0825f10a4474b93",
+  "name": "CMC AUDITORES SRL",
+  "group_name": "emperador",
+  "sector": "Professional Services",
+  "website": null,
+  "published": "2026-10-13T09:46:00",
+  "discovered": "2026-10-13T10:52:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "aab82f85b5761fb3",
+  "name": "Secretaría de Modernización e Innovación del Municipio",
+  "group_name": "qilin",
+  "sector": "Government & Defense",
+  "website": "www.riogrande.gob.ar",
+  "published": "2026-10-10T16:05:25",
+  "discovered": "2026-10-10T16:05:54",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2e8049a513567fe2",
+  "name": "avsa.com.ar",
+  "group_name": "lockbit5",
+  "sector": "Other",
+  "website": "avsa.com.ar",
+  "published": "2026-10-06T20:54:00",
+  "discovered": "2026-10-08T03:31:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "7c21160f539eaa3c",
+  "name": "TGN",
+  "group_name": "thegentlemen",
+  "sector": null,
+  "website": "tgn.com.ar",
+  "published": "2026-10-06T18:56:27",
+  "discovered": "2026-10-09T19:27:08",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "cdda6782720c34e3",
+  "name": "Laboratorios Roemmers SAICF",
+  "group_name": "aurora",
+  "sector": "Salud",
+  "website": "roemmers.com.ar",
+  "published": "2026-10-01T00:00:00",
+  "discovered": "2026-10-01T06:55:01",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "ac8be9386dadec38",
+  "name": "pistonespersan.com.ar",
+  "group_name": "threeam",
+  "sector": "Industria",
+  "website": "pistonespersan.com.ar",
+  "published": "2026-09-28T18:51:46",
+  "discovered": "2026-09-28T18:52:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0e36a723d39de0f2",
+  "name": "Solucioning S.A.",
+  "group_name": "barracuda",
+  "sector": "Other",
+  "website": null,
+  "published": "2026-09-24T02:20:17",
+  "discovered": "2026-09-24T02:21:19",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "862a24bb333345c2",
+  "name": "Grupo Hospifar S.R.L.",
+  "group_name": "titan",
+  "sector": "Salud",
+  "website": null,
+  "published": "2026-09-22T19:55:01",
+  "discovered": "2026-09-22T19:55:20",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "64fbe1ad9e3a57d6",
+  "name": "Ministry of Education — Argentina",
+  "group_name": "n0n",
+  "sector": "Government & Defense",
+  "website": "argentina.gob.ar",
+  "published": "2026-09-18T15:26:28",
+  "discovered": "2026-09-18T15:26:43",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "47950c3540334f86",
+  "name": "Ceres Tolvas",
+  "group_name": "qilin",
+  "sector": "Agro y alimentos",
+  "website": "www.cerestolvas.com.ar",
+  "published": "2026-09-18T10:11:09",
+  "discovered": "2026-09-18T10:11:27",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2450ea206f326a34",
+  "name": "Techwise",
+  "group_name": "qilin",
+  "sector": "Tecnología",
+  "website": "www.techwise.com.ar",
+  "published": "2026-09-17T16:02:45",
+  "discovered": "2026-09-17T16:03:05",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "721202123329f55c",
+  "name": "www.diarco.com.ar",
+  "group_name": "incransom",
+  "sector": "Retail & E-Commerce",
+  "website": "www.diarco.com.ar",
+  "published": "2026-09-17T07:15:00",
+  "discovered": "2026-09-17T07:24:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "8399b5b828921d49",
+  "name": "Librería Santa Fe",
+  "group_name": "thegentlemen",
+  "sector": "Retail & E-Commerce",
+  "website": "santafelibros.com.ar",
+  "published": "2026-09-14T17:28:08",
+  "discovered": "2026-09-15T07:08:36",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "dbed3d1840a326d5",
+  "name": "Vitar Group",
+  "group_name": "qilin",
+  "sector": "Other",
+  "website": "www.vitargroup.com",
+  "published": "2026-09-14T13:08:46",
+  "discovered": "2026-09-14T13:09:19",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "384e5cf74c621ade",
+  "name": "cannonpuntana.com",
+  "group_name": "safepay",
+  "sector": null,
+  "website": "cannonpuntana.com",
+  "published": "2026-09-08T19:48:38",
+  "discovered": "2026-09-08T19:48:52",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "4a5cbb376dfa9be1",
+  "name": "contreras.com.ar",
+  "group_name": "lockbit5",
+  "sector": null,
+  "website": "contreras.com.ar",
+  "published": "2026-09-08T13:29:00",
+  "discovered": "2026-09-08T15:36:03",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f3b37de05cbfdd13",
+  "name": "krimax.org",
+  "group_name": "auditteam",
+  "sector": "Other",
+  "website": "krimax.org",
+  "published": "2026-09-08T00:00:00",
+  "discovered": "2026-09-16T18:20:54",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2fe45287e8b2c001",
+  "name": "kr***rg",
+  "group_name": "auditteam",
+  "sector": null,
+  "website": null,
+  "published": "2026-09-08T00:00:00",
+  "discovered": "2026-09-09T16:50:21",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a091bb9b96716924",
+  "name": "Drogueria Saporiti Sacifia",
+  "group_name": "thegentlemen",
+  "sector": "Retail & E-Commerce",
+  "website": "drogueria-saporiti.com.ar",
+  "published": "2026-09-07T14:09:35",
+  "discovered": "2026-09-07T21:56:17",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2192207f091af0e0",
+  "name": "LIBRERIA SANTA FE A P S SRL",
+  "group_name": "vexy ransomware",
+  "sector": "Retail & E-Commerce",
+  "website": "lsf.com.ar",
+  "published": "2026-09-07T01:25:51",
+  "discovered": "2026-09-07T08:22:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "444ac80f5cfec33a",
+  "name": "Judicial Branch of the Province of Jujuy",
+  "group_name": "emperador",
+  "sector": "Government & Defense",
+  "website": null,
+  "published": "2026-09-05T01:47:00",
+  "discovered": "2026-09-05T02:50:45",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "919e82ae42c21aa7",
+  "name": "arsrenacer.com",
+  "group_name": "dragonforce",
+  "sector": "Other",
+  "website": "arsrenacer.com",
+  "published": "2026-09-01T20:50:07",
+  "discovered": "2026-09-20T20:58:23",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "ea50e746be8a542e",
+  "name": "Inmac",
+  "group_name": "qilin",
+  "sector": "Retail & E-Commerce",
+  "website": "www.inmac.com.ar",
+  "published": "2026-08-31T19:01:57",
+  "discovered": "2026-08-31T19:02:21",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "368eb7ddd02d7dce",
+  "name": "Neumaticos Corral S.A.",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.neumaticoscorral.com.ar",
+  "published": "2026-08-29T15:00:54",
+  "discovered": "2026-08-29T15:01:16",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "d9db59f752de71a2",
+  "name": "Tecno Accion",
+  "group_name": "thegentlemen",
+  "sector": "Tecnología",
+  "website": "tecnoaccion.com.ar",
+  "published": "2026-08-28T17:00:17",
+  "discovered": "2026-08-30T09:52:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "474e41f382646fff",
+  "name": "Open Sports",
+  "group_name": "qilin",
+  "sector": "Retail & E-Commerce",
+  "website": "www.opensports.com.ar",
+  "published": "2026-08-27T11:58:44",
+  "discovered": "2026-08-27T11:59:03",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "7966800af7ed5599",
+  "name": "Sanatorio Modelo de Caseros",
+  "group_name": "qilin",
+  "sector": "Salud",
+  "website": "www.sanatoriomodelo.com.ar",
+  "published": "2026-08-26T18:57:24",
+  "discovered": "2026-08-26T18:57:41",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "08b8db390c3e63ea",
+  "name": "Criba",
+  "group_name": "dragonforce",
+  "sector": "Tecnología",
+  "website": "criba.com.ar",
+  "published": "2026-08-24T16:11:47",
+  "discovered": "2026-08-24T16:24:19",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c73c4a285c8d9f0d",
+  "name": "Instituto Ferrero de Neurología y Sueño",
+  "group_name": "kazu",
+  "sector": "Salud",
+  "website": "ifn.com.ar",
+  "published": "2026-08-23T08:09:58",
+  "discovered": "2026-08-23T08:10:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b847cdbab1ca0ed6",
+  "name": "Flecha Bus",
+  "group_name": "coinbasecartel",
+  "sector": "Transporte y logística",
+  "website": "flechabus.com.ar",
+  "published": "2026-08-22T13:58:57",
+  "discovered": "2026-08-22T13:59:20",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "7396b4e825c75467",
+  "name": "automotoresrosedal.com.ar",
+  "group_name": "krybit",
+  "sector": "Retail & E-Commerce",
+  "website": "automotoresrosedal.com.ar",
+  "published": "2026-08-19T11:58:01",
+  "discovered": "2026-08-19T11:58:18",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "ac63beaf33211a5d",
+  "name": "www.amca.org.ar",
+  "group_name": "blackwater",
+  "sector": "Professional Services",
+  "website": "www.amca.org.ar",
+  "published": "2026-08-15T08:38:01",
+  "discovered": "2026-08-15T09:23:53",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "46589aab1bcfd3e1",
+  "name": "www.apsanet.com.ar",
+  "group_name": "krybit",
+  "sector": "Professional Services",
+  "website": "www.apsanet.com.ar",
+  "published": "2026-08-11T14:25:50",
+  "discovered": "2026-08-11T14:26:10",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "fc2f6aa09648ff92",
+  "name": "Vemec",
+  "group_name": "thegentlemen",
+  "sector": "Industria",
+  "website": "vemecsrl.com",
+  "published": "2026-08-06T16:24:48",
+  "discovered": "2026-08-07T08:03:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e877d50b1a8d3b4f",
+  "name": "Oleoductos del Valle",
+  "group_name": "incransom",
+  "sector": "Energy & Utilities",
+  "website": "oldelval.com",
+  "published": "2026-08-03T23:59:00",
+  "discovered": "2026-08-04T00:24:30",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "1e78391a53240134",
+  "name": "Gran valle negocios",
+  "group_name": "qilin",
+  "sector": "Other",
+  "website": "www.granvallenegocios.com.ar",
+  "published": "2026-07-28T10:01:23",
+  "discovered": "2026-07-28T10:01:53",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "9853bea714bb8662",
+  "name": "Relesa",
+  "group_name": "deadlock",
+  "sector": "Other",
+  "website": "relesa.com.ar",
+  "published": "2026-07-25T00:00:00",
+  "discovered": "2026-07-25T17:54:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "91f4f5db3e2be3c2",
+  "name": "Ejército Argentino",
+  "group_name": "qilin",
+  "sector": "Government & Defense",
+  "website": "argentina.gob.ar",
+  "published": "2026-07-24T00:00:00",
+  "discovered": "2026-07-24T10:37:25",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "952c6acaf4def73d",
+  "name": "Oldelval Oleoductos del Valle",
+  "group_name": "thegentlemen",
+  "sector": "Energy & Utilities",
+  "website": "oldelval.com",
+  "published": "2026-07-23T08:37:34",
+  "discovered": "2026-07-23T15:13:27",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "39d6d954af1115a6",
+  "name": "Canal 9 Litoral",
+  "group_name": "nova",
+  "sector": "Tecnología",
+  "website": null,
+  "published": "2026-07-22T00:13:23",
+  "discovered": "2026-07-22T00:14:37",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "492685433580b61d",
+  "name": "Universidad Nacional de Mar del Plata",
+  "group_name": "nova",
+  "sector": "Educación",
+  "website": "mdp.edu.ar",
+  "published": "2026-07-20T15:01:52",
+  "discovered": "2026-07-20T15:02:47",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "522cd2a9570c8613",
+  "name": "Eana",
+  "group_name": "qilin",
+  "sector": null,
+  "website": "www.eana.com.ar",
+  "published": "2026-07-19T18:09:31",
+  "discovered": "2026-07-19T18:10:04",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b92825ce60b7106f",
+  "name": "Droguería Martorani",
+  "group_name": "qilin",
+  "sector": "Retail & E-Commerce",
+  "website": "www.martorani.com",
+  "published": "2026-07-18T00:05:36",
+  "discovered": "2026-07-18T00:06:10",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "dbc191370bf8349d",
+  "name": "Cafar",
+  "group_name": "qilin",
+  "sector": "Agro y alimentos",
+  "website": "www.cafar.org.ar",
+  "published": "2026-07-17T16:57:24",
+  "discovered": "2026-07-17T16:57:50",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "14ee758e29fe6f11",
+  "name": "Petrini Valores",
+  "group_name": "dragonforce",
+  "sector": "Finanzas",
+  "website": "www.petrini.com.ar",
+  "published": "2026-07-16T11:54:52",
+  "discovered": "2026-07-16T12:25:41",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "37421e78db931fb2",
+  "name": "micropack.com.ar",
+  "group_name": "lockbit5",
+  "sector": "Industria",
+  "website": "micropack.com.ar",
+  "published": "2026-07-16T00:00:00",
+  "discovered": "2026-08-03T05:06:22",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "47c2df138d49cf49",
+  "name": "Nicholson y Cano Abogados",
+  "group_name": "dragonforce",
+  "sector": "Professional Services",
+  "website": "www.nicholsonycano.com.ar",
+  "published": "2026-07-13T14:37:40",
+  "discovered": "2026-07-13T14:55:05",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "34858a019a45efc0",
+  "name": "LA SEVILLANITA SRL",
+  "group_name": "deadlock",
+  "sector": "Agro y alimentos",
+  "website": "www.lasevillanita-online.com",
+  "published": "2026-07-10T13:14:07",
+  "discovered": "2026-07-10T13:14:08",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a6800c60587f33db",
+  "name": "CIATI",
+  "group_name": "deadlock",
+  "sector": "Professional Services",
+  "website": "ciati.com.ar",
+  "published": "2026-07-10T13:11:24",
+  "discovered": "2026-07-10T13:11:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "01be0a3f1206c117",
+  "name": "Optimal Care SA",
+  "group_name": "deadlock",
+  "sector": "Salud",
+  "website": "www.optimalcaresa.com",
+  "published": "2026-07-10T13:08:33",
+  "discovered": "2026-07-10T13:08:35",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "587456b9e01469d1",
+  "name": "CRZ Construcciones",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.crzconstrucciones.com",
+  "published": "2026-07-10T12:31:46",
+  "discovered": "2026-07-10T12:32:07",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e1864304d9fc5912",
+  "name": "Ferretería Scopazzo",
+  "group_name": "thegentlemen",
+  "sector": "Retail & E-Commerce",
+  "website": "scopazzo.com.ar",
+  "published": "2026-07-10T03:11:38",
+  "discovered": "2026-07-11T07:23:28",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "d96ba3291f385522",
+  "name": "vicentetrapani.com",
+  "group_name": "apt73",
+  "sector": "Professional Services",
+  "website": "vicentetrapani.com",
+  "published": "2026-07-06T10:51:04",
+  "discovered": "2026-07-06T10:51:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "1554e4609ac0b0e2",
+  "name": "Mercado Libre",
+  "group_name": "thegentlemen",
+  "sector": "Tecnología",
+  "website": "mercadolibre.com.ar",
+  "published": "2026-07-06T01:21:30",
+  "discovered": "2026-07-07T18:30:52",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f681c261a3081720",
+  "name": "Metal Sur Famin",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.metalsurfamin.com",
+  "published": "2026-06-29T15:59:08",
+  "discovered": "2026-06-29T15:59:35",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b9b3b6561bc6e354",
+  "name": "GDN AR(Dorinka)",
+  "group_name": "incransom",
+  "sector": "Other",
+  "website": null,
+  "published": "2026-06-29T12:00:00",
+  "discovered": "2026-06-29T12:26:32",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "bd616b7f7668391f",
+  "name": "alejandria.biz",
+  "group_name": "nova",
+  "sector": null,
+  "website": "alejandria.biz",
+  "published": "2026-06-24T11:53:47",
+  "discovered": "2026-06-24T11:54:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "9cf763c28a544720",
+  "name": "Fecovita",
+  "group_name": "thegentlemen",
+  "sector": "Agro y alimentos",
+  "website": "fecovita.com",
+  "published": "2026-06-15T08:44:03",
+  "discovered": "2026-06-15T12:57:50",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "85968525ddb4c606",
+  "name": "suppcenter.global / suppcentersa.com",
+  "group_name": "m3rx",
+  "sector": "Professional Services",
+  "website": "suppcenter.global / suppcentersa.com",
+  "published": "2026-06-11T18:23:02",
+  "discovered": "2026-06-11T18:23:35",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "1ba50ce222621ef3",
+  "name": "Institucion Cervantes",
+  "group_name": "thegentlemen",
+  "sector": "Educación",
+  "website": "cervantes.edu.ar",
+  "published": "2026-06-08T08:32:34",
+  "discovered": "2026-06-08T09:57:50",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "45e1aeab53ddc0a0",
+  "name": "Promepla",
+  "group_name": "ransomhouse",
+  "sector": "Industria",
+  "website": "www.promepla.com",
+  "published": "2026-06-08T00:00:00",
+  "discovered": "2026-06-16T17:25:07",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "eb8709ecf30530c7",
+  "name": "Sanatorio Delta",
+  "group_name": "thegentlemen",
+  "sector": "Salud",
+  "website": "sanatoriodelta.com",
+  "published": "2026-05-24T03:46:06",
+  "discovered": "2026-05-24T09:01:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "576a269fd040d3d1",
+  "name": "grupopetersen.com.ar",
+  "group_name": "apt73",
+  "sector": "Agro y alimentos",
+  "website": "grupopetersen.com.ar",
+  "published": "2026-05-21T16:22:18",
+  "discovered": "2026-05-21T16:22:34",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "76a961c8ed1aa594",
+  "name": "Vial Agro",
+  "group_name": "qilin",
+  "sector": "Agro y alimentos",
+  "website": "www.vialagro.com.ar",
+  "published": "2026-05-20T14:54:36",
+  "discovered": "2026-05-20T14:54:53",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "62d6426829f05680",
+  "name": "CLINICA AVELLANEDA MEDICAL CENTER",
+  "group_name": "qilin",
+  "sector": "Salud",
+  "website": "CLINICA AVELLANEDA MEDICAL CENTER",
+  "published": "2026-05-16T00:00:00",
+  "discovered": "2026-05-16T17:54:10",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "6d6f0b22a4c6285d",
+  "name": "molinoscabodi.com.ar",
+  "group_name": "threeam",
+  "sector": "Agro y alimentos",
+  "website": "molinoscabodi.com.ar",
+  "published": "2026-05-14T00:00:00",
+  "discovered": "2026-06-12T20:04:24",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "57c2c8e72c8fa776",
+  "name": "Buenos Aires Software",
+  "group_name": "coinbasecartel",
+  "sector": "Tecnología",
+  "website": "bas.com.ar",
+  "published": "2026-05-13T14:20:51",
+  "discovered": "2026-05-13T14:21:06",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f01bb467b73816b9",
+  "name": "insamani.com.ar",
+  "group_name": "threeam",
+  "sector": "Salud",
+  "website": "insamani.com.ar",
+  "published": "2026-05-11T00:00:00",
+  "discovered": "2026-06-12T20:05:28",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "5fa4b524719cccbd",
+  "name": "Shipping Services",
+  "group_name": "qilin",
+  "sector": "Transporte y logística",
+  "website": "www.ssa-shipping.com.ar",
+  "published": "2026-05-08T18:48:11",
+  "discovered": "2026-05-08T18:48:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "d5085ce9677b9b98",
+  "name": "Triquim",
+  "group_name": "thegentlemen",
+  "sector": "Industria",
+  "website": "triquim.com.ar",
+  "published": "2026-05-03T20:15:16",
+  "discovered": "2026-05-06T10:07:45",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2f02f5ca58c20c3d",
+  "name": "SanCor",
+  "group_name": "qilin",
+  "sector": "Agro y alimentos",
+  "website": "www.sancor.com",
+  "published": "2026-04-25T14:47:17",
+  "discovered": "2026-04-25T14:47:30",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "dfe3c0309da943cb",
+  "name": "La Sevillanita",
+  "group_name": "global secret group",
+  "sector": "Hospitality",
+  "website": "lasevillanita.com",
+  "published": "2026-04-11T00:00:00",
+  "discovered": "2026-07-26T17:58:56",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "5cf011761a600370",
+  "name": "Debene S.A. | Página Principal",
+  "group_name": "timc",
+  "sector": "Industria",
+  "website": "debene.com",
+  "published": "2026-04-09T15:16:34",
+  "discovered": "2026-04-09T15:16:35",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "ef0f66d556222f44",
+  "name": "Grupo PyD",
+  "group_name": "gunra",
+  "sector": "Industria",
+  "website": "grupopyd.com",
+  "published": "2026-04-08T16:30:17",
+  "discovered": "2026-04-08T16:30:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b9f6c0313966cb5e",
+  "name": "Hospital del Sur",
+  "group_name": "thegentlemen",
+  "sector": "Salud",
+  "website": "hospitaldelsur.gov.co",
+  "published": "2026-04-08T15:29:22",
+  "discovered": "2026-04-08T15:29:24",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "3551292fceee085a",
+  "name": "TR Construya",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.trconstruya.es",
+  "published": "2026-03-28T00:00:00",
+  "discovered": "2026-03-28T18:58:08",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "44d9fcc891f67bdf",
+  "name": "Estudio O'Farrell",
+  "group_name": "crypto24",
+  "sector": "Professional Services",
+  "website": "estudio-ofarrell.com",
+  "published": "2026-03-24T08:48:31",
+  "discovered": "2026-03-24T08:48:37",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f8d0d07897659727",
+  "name": "Curtiembre Austral S.R.L.",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.curtiembreaustral.com",
+  "published": "2026-03-11T00:00:00",
+  "discovered": "2026-03-11T14:33:18",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "578c418310deaf82",
+  "name": "INDESMALLA",
+  "group_name": "akira",
+  "sector": "Industria",
+  "website": "indesmalla.com",
+  "published": "2026-02-20T00:00:00",
+  "discovered": "2026-04-15T12:03:39",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "861b743b7501c60d",
+  "name": "Perfumeria Pigmento",
+  "group_name": "thegentlemen",
+  "sector": "Retail & E-Commerce",
+  "website": "perfumeriaspigmento.com.ar",
+  "published": "2026-02-19T10:30:52",
+  "discovered": "2026-02-21T19:16:17",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2577808000413687",
+  "name": "cheeky.com.ar",
+  "group_name": "safepay",
+  "sector": "Retail & E-Commerce",
+  "website": "cheeky.com.ar",
+  "published": "2026-02-05T00:00:00",
+  "discovered": "2026-04-17T16:28:13",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c45f023d2117da60",
+  "name": "RC Collecting",
+  "group_name": "qilin",
+  "sector": "Retail & E-Commerce",
+  "website": "www.rccollecting.com",
+  "published": "2026-02-04T06:30:39",
+  "discovered": "2026-02-04T06:30:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2d1711a46446034d",
+  "name": "Borg Argentina",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.borgargentina.com.ar",
+  "published": "2026-01-24T20:12:47",
+  "discovered": "2026-01-24T20:13:04",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "8741f17e87093811",
+  "name": "Proleasing",
+  "group_name": "qilin",
+  "sector": "Finanzas",
+  "website": "www.provincialeasing.com.ar",
+  "published": "2026-01-22T00:00:00",
+  "discovered": "2026-01-22T17:03:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a10e9f9723a45fc4",
+  "name": "adifse.com.ar",
+  "group_name": "safepay",
+  "sector": "Government & Defense",
+  "website": "adifse.com.ar",
+  "published": "2026-01-09T00:00:00",
+  "discovered": "2026-01-24T20:20:15",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0f95adc2ff961005",
+  "name": "investigacionesmedicas.com",
+  "group_name": "safepay",
+  "sector": "Salud",
+  "website": "investigacionesmedicas.com",
+  "published": "2025-12-29T20:10:46",
+  "discovered": "2025-12-29T20:11:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "881f297e27229bb5",
+  "name": "maxdream.tur.ar",
+  "group_name": "safepay",
+  "sector": "Hospitality",
+  "website": "maxdream.tur.ar",
+  "published": "2025-12-24T21:22:45",
+  "discovered": "2025-12-24T21:22:59",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f8f84411af7a6f18",
+  "name": "nhpsa.com.ar",
+  "group_name": "safepay",
+  "sector": "Industria",
+  "website": "nhpsa.com.ar",
+  "published": "2025-12-24T21:21:37",
+  "discovered": "2025-12-24T21:21:49",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "5286a6a861a22965",
+  "name": "Publicidad Sarmiento",
+  "group_name": "qilin",
+  "sector": "Professional Services",
+  "website": "www.sarmiento.net",
+  "published": "2025-12-19T17:54:03",
+  "discovered": "2025-12-19T17:54:21",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e86c5978ae1fc7b1",
+  "name": "Club Atlético River Plate",
+  "group_name": "qilin",
+  "sector": "Hospitality",
+  "website": "www.cariverplate.com.ar",
+  "published": "2025-12-19T11:29:20",
+  "discovered": "2025-12-19T11:29:37",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2bcf4fd911e383fc",
+  "name": "Ferreteria Scopazzo",
+  "group_name": "qilin",
+  "sector": "Retail & E-Commerce",
+  "website": "www.scopazzo.com.ar",
+  "published": "2025-12-17T00:00:00",
+  "discovered": "2025-12-17T07:19:21",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e2f6889bcec2b8d7",
+  "name": "aysa.com.ar",
+  "group_name": "safepay",
+  "sector": "Energy & Utilities",
+  "website": "aysa.com.ar",
+  "published": "2025-12-14T20:38:09",
+  "discovered": "2025-12-14T20:38:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "15cbffd443622db3",
+  "name": "CIDEF Argentina S.A.",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.cidef-arg.net",
+  "published": "2025-12-10T00:00:00",
+  "discovered": "2025-12-10T05:49:10",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "985485e4e908e9e4",
+  "name": "TopDest",
+  "group_name": "qilin",
+  "sector": "Hospitality",
+  "website": "www.topdest.tur.ar",
+  "published": "2025-12-09T00:00:00",
+  "discovered": "2025-12-09T18:38:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "54adb8e4f5841e72",
+  "name": "San Miguel",
+  "group_name": "qilin",
+  "sector": "Industria",
+  "website": "www.sanmiguelglobal.com",
+  "published": "2025-12-01T18:14:21",
+  "discovered": "2025-12-01T18:14:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "123d66072f7ced68",
+  "name": "Bomchil",
+  "group_name": "qilin",
+  "sector": "Professional Services",
+  "website": "www.bomchil.com.ar",
+  "published": "2025-11-29T20:08:33",
+  "discovered": "2025-11-29T20:08:51",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b1461dc0b4edea36",
+  "name": "Bodega San Huberto",
+  "group_name": "dragonforce",
+  "sector": "Agro y alimentos",
+  "website": "bodegassanhuberto.com.ar",
+  "published": "2025-11-22T18:28:12",
+  "discovered": "2025-11-22T18:59:18",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b9909854848cae03",
+  "name": "Electricidad Panamericana",
+  "group_name": "direwolf",
+  "sector": "Energy & Utilities",
+  "website": "electricidadpanamericana.com.ar",
+  "published": "2025-11-21T16:06:12",
+  "discovered": "2025-11-26T17:17:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "87800b970a85c403",
+  "name": "Persians - Cortinas - Todos - Alfombrass",
+  "group_name": "dragonforce",
+  "sector": "Retail & E-Commerce",
+  "website": "canetcam.com",
+  "published": "2025-11-13T00:35:22",
+  "discovered": "2025-11-13T00:51:34",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "00446c1fc215de6b",
+  "name": "maasa.com.ar",
+  "group_name": "lockbit5",
+  "sector": "Agro y alimentos",
+  "website": "maasa.com.ar",
+  "published": "2025-11-06T00:00:00",
+  "discovered": "2025-12-19T15:11:17",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "63c6f44709b0b6e6",
+  "name": "LATCOM",
+  "group_name": "blacknevas",
+  "sector": "Retail & E-Commerce",
+  "website": "latcom.com/latcom",
+  "published": "2025-10-19T18:01:13",
+  "discovered": "2025-10-30T17:13:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0f734ef9f5480a3e",
+  "name": "Dental Society of La Plata",
+  "group_name": "dragonforce",
+  "sector": "Salud",
+  "website": "www.solp.org.ar",
+  "published": "2025-10-17T14:57:11",
+  "discovered": "2025-10-27T11:54:52",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "46e6b163a9e40a71",
+  "name": "IDB Clinicas",
+  "group_name": "sinobi",
+  "sector": "Salud",
+  "website": "idbclinicas.com",
+  "published": "2025-10-12T20:16:22",
+  "discovered": "2025-10-12T20:43:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "903303846b0fa04e",
+  "name": "Ministerio de Salud de la Nación argentina",
+  "group_name": "nova",
+  "sector": "Government & Defense",
+  "website": "argentina.gob.ar",
+  "published": "2025-10-12T16:08:04",
+  "discovered": "2025-10-12T16:08:45",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a9440ddf071d77ae",
+  "name": "tango-hotel.com.ar",
+  "group_name": "safepay",
+  "sector": "Hospitality",
+  "website": "tango-hotel.com.ar",
+  "published": "2025-10-10T21:13:46",
+  "discovered": "2025-10-10T21:13:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e3ef9fbc8a417bbf",
+  "name": "Garro Fabril",
+  "group_name": "beast",
+  "sector": "Industria",
+  "website": "www.garrofabril.com.ar",
+  "published": "2025-09-23T00:00:00",
+  "discovered": "2025-10-04T12:12:54",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "66f5f943ba87049b",
+  "name": "Cervantes",
+  "group_name": "thegentlemen",
+  "sector": "Educación",
+  "website": "www.cervantes.edu.ar",
+  "published": "2025-09-09T16:05:38",
+  "discovered": "2025-09-09T16:06:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2478c1fa6cb201b6",
+  "name": "Grupo Via Argentina",
+  "group_name": "incransom",
+  "sector": "Transporte y logística",
+  "website": "grupovia.com",
+  "published": "2025-09-05T00:00:00",
+  "discovered": "2025-11-12T12:51:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "1866098f6520b195",
+  "name": "Sistema Odontológico Privado",
+  "group_name": "qilin",
+  "sector": "Salud",
+  "website": "www.sopsrl.com",
+  "published": "2025-09-04T00:00:00",
+  "discovered": "2025-10-14T18:09:36",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f527376062b731e3",
+  "name": "SOP. Sistema Odontológico Privado",
+  "group_name": "spacebears",
+  "sector": "Salud",
+  "website": "www.sop.com.ar/index.html",
+  "published": "2025-08-20T00:00:00",
+  "discovered": "2025-09-26T05:44:02",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "88262f9bcfcb5fbf",
+  "name": "BinBaires",
+  "group_name": "beast",
+  "sector": "Hospitality",
+  "website": "www.binbaires.com.ar",
+  "published": "2025-08-13T00:00:00",
+  "discovered": "2025-09-06T17:12:20",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "fcb97c197d4a401b",
+  "name": "Inside One",
+  "group_name": "lynx",
+  "sector": "Tecnología",
+  "website": "www.insideone.com",
+  "published": "2025-07-15T05:03:30",
+  "discovered": "2025-07-15T17:40:24",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "35f55f0e25871b42",
+  "name": "SOUBEIRAN CHOBET S.R.L.",
+  "group_name": "crypto24",
+  "sector": "Professional Services",
+  "website": "soubeiranchobet.com.ar",
+  "published": "2025-07-14T00:00:00",
+  "discovered": "2025-07-22T15:56:20",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "375c62d0107dcbb4",
+  "name": "Cremona Inoxidable",
+  "group_name": "thegentlemen",
+  "sector": "Industria",
+  "website": "www.creminox.com",
+  "published": "2025-06-27T00:35:06",
+  "discovered": "2025-09-09T15:59:22",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "76ecc056ddaa08b8",
+  "name": "Aerodreams",
+  "group_name": "handala",
+  "sector": "Transporte y logística",
+  "website": null,
+  "published": "2025-06-14T04:44:11",
+  "discovered": "2025-06-14T05:12:07",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a3e4b7edd9c1ee7b",
+  "name": "Punta Del Agua",
+  "group_name": "qilin",
+  "sector": "Agro y alimentos",
+  "website": "www.puntadelagua.com.ar",
+  "published": "2025-06-13T00:00:00",
+  "discovered": "2025-07-03T22:40:24",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "9981eb84b5413b7a",
+  "name": "fecovita.com",
+  "group_name": "j",
+  "sector": "Agro y alimentos",
+  "website": "fecovita.com",
+  "published": "2025-06-09T00:00:00",
+  "discovered": "2025-06-21T21:36:45",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "36f217e14b6fdeb6",
+  "name": "iscamen",
+  "group_name": "incransom",
+  "sector": "Agro y alimentos",
+  "website": "iscamen.gov.ar",
+  "published": "2025-06-05T12:00:00",
+  "discovered": "2025-06-05T12:17:25",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c749c1d2e2d321d8",
+  "name": "estudiolm.com.ar",
+  "group_name": "safepay",
+  "sector": "Professional Services",
+  "website": "estudiolm.com.ar",
+  "published": "2025-05-17T00:00:00",
+  "discovered": "2025-05-26T20:45:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "14cec5ca48a974db",
+  "name": "tecnicarobertorocca.edu.ar",
+  "group_name": "lockbit5",
+  "sector": "Educación",
+  "website": "tecnicarobertorocca.edu.ar",
+  "published": "2025-05-08T00:00:00",
+  "discovered": "2025-12-26T15:45:14",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "7998bb76f83ab078",
+  "name": "Bioprofarma Bagó S.A",
+  "group_name": "gunra",
+  "sector": "Salud",
+  "website": "bioprofarma-bago.com.ar",
+  "published": "2025-04-27T00:00:00",
+  "discovered": "2025-04-28T10:31:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b1e9f41ecb45c95b",
+  "name": "Milicic",
+  "group_name": "rhysida",
+  "sector": "Other",
+  "website": "milicic.com.ar",
+  "published": "2025-04-23T15:05:49",
+  "discovered": "2025-04-23T15:06:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0e6cd48a41399ab1",
+  "name": "psec.com.ar",
+  "group_name": "l group",
+  "sector": "Tecnología",
+  "website": "psec.com.ar",
+  "published": "2025-04-16T00:00:00",
+  "discovered": "2026-08-07T08:39:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "dc65949552388614",
+  "name": "Zaphira Uniformes",
+  "group_name": "nightspire",
+  "sector": "Retail & E-Commerce",
+  "website": "zaphirauniformes.com.ar",
+  "published": "2025-04-08T00:00:00",
+  "discovered": "2025-04-13T20:33:34",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c135c78b80cecc7b",
+  "name": "atp.chaco.gob.ar",
+  "group_name": "l group",
+  "sector": "Government & Defense",
+  "website": "atp.chaco.gob.ar",
+  "published": "2025-04-03T00:00:00",
+  "discovered": "2026-08-07T08:42:04",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b1e9cbd732db0ca6",
+  "name": "Tomio Ingeniería",
+  "group_name": "nova",
+  "sector": "Industria",
+  "website": "tomioingenieria.com.ar",
+  "published": "2025-03-22T00:00:00",
+  "discovered": "2025-04-28T13:30:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "36aa2603f98c7c0a",
+  "name": "Tomio Ingeniería",
+  "group_name": "ralord",
+  "sector": "Industria",
+  "website": "tomioingenieria.com.ar",
+  "published": "2025-03-22T00:00:00",
+  "discovered": "2025-03-31T02:11:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "646f9b4469e294a3",
+  "name": "tomioingenieria.com.ar",
+  "group_name": "ralord",
+  "sector": "Industria",
+  "website": "tomioingenieria.com.ar",
+  "published": "2025-03-22T00:00:00",
+  "discovered": "2025-03-26T07:10:55",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "cca4941158279256",
+  "name": "Instituto de Ojos",
+  "group_name": "killsec",
+  "sector": "Salud",
+  "website": "institutoojospr.com",
+  "published": "2025-03-20T15:30:25",
+  "discovered": "2025-03-20T15:32:01",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a9fd9f883f27ea7d",
+  "name": "KIU System Solutions",
+  "group_name": "apos",
+  "sector": "Tecnología",
+  "website": "kiusys.com",
+  "published": "2025-03-17T07:58:58",
+  "discovered": "2025-03-17T08:38:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0189976496a82506",
+  "name": "psec.com.ar",
+  "group_name": "j",
+  "sector": "Finanzas",
+  "website": "psec.com.ar",
+  "published": "2025-03-16T00:00:00",
+  "discovered": "2025-05-12T17:23:59",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "3179e4be008b2f4a",
+  "name": "Dacas Argentina",
+  "group_name": "qilin",
+  "sector": "Agro y alimentos",
+  "website": "dacas.com",
+  "published": "2025-03-10T00:00:00",
+  "discovered": "2025-03-10T11:07:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "8d91eed2bc45e4a0",
+  "name": "fepasa.com.ar",
+  "group_name": "lockbit5",
+  "sector": "Transporte y logística",
+  "website": "fepasa.com.ar",
+  "published": "2025-03-07T00:00:00",
+  "discovered": "2025-12-07T10:26:24",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "cef664b706e7ccb0",
+  "name": "www.argentosc.com",
+  "group_name": "ransomhub",
+  "sector": null,
+  "website": "argentosc.com",
+  "published": "2025-03-07T00:00:00",
+  "discovered": "2025-03-25T14:56:55",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "558cb7bb466bbc7e",
+  "name": "fepasa.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Transporte y logística",
+  "website": "fepasa.com.ar",
+  "published": "2025-03-07T00:00:00",
+  "discovered": "2025-03-25T14:05:32",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "1242f6374a6d4450",
+  "name": "atp.chaco.gob.ar",
+  "group_name": "j",
+  "sector": "Government & Defense",
+  "website": "atp.chaco.gob.ar",
+  "published": "2025-03-03T00:00:00",
+  "discovered": "2025-05-02T07:25:42",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "05c7c4c23e1fb519",
+  "name": "FM.GOB.AR",
+  "group_name": "monti",
+  "sector": "Government & Defense",
+  "website": "FM.GOB.AR",
+  "published": "2025-03-02T18:28:56",
+  "discovered": "2025-03-02T18:56:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "8aecb21ebec73056",
+  "name": "Seguros la Cmara",
+  "group_name": "thegentlemen",
+  "sector": "Finanzas",
+  "website": null,
+  "published": "2025-02-19T00:00:00",
+  "discovered": "2025-10-07T21:58:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "995b9aaa9215d07b",
+  "name": "AUSA Soluciones Logisticas",
+  "group_name": "thegentlemen",
+  "sector": "Transporte y logística",
+  "website": null,
+  "published": "2025-02-19T00:00:00",
+  "discovered": "2025-10-04T09:41:59",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b894869806c10672",
+  "name": "farma",
+  "group_name": "qilin",
+  "sector": "Salud",
+  "website": "www.farmaciadelpueblo.com.ar",
+  "published": "2025-02-14T00:00:00",
+  "discovered": "2025-04-18T13:43:19",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "345a00831cee6949",
+  "name": "360energy.com.ar",
+  "group_name": "akira",
+  "sector": "Energy & Utilities",
+  "website": "360energy.com.ar",
+  "published": "2025-02-04T17:38:01",
+  "discovered": "2025-02-04T17:38:01",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2d65344469f9c04f",
+  "name": "Hospital El Cruce",
+  "group_name": "medusa",
+  "sector": "Salud",
+  "website": "hospitalelcruce.org",
+  "published": "2025-01-24T07:45:11",
+  "discovered": "2025-01-24T07:45:43",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "d4c551ba2b086a33",
+  "name": "HIDROCARBUROS ARGENTINOS S.A.",
+  "group_name": "blacklock",
+  "sector": "Energy & Utilities",
+  "website": "hasa-arg.com",
+  "published": "2025-01-04T15:36:50",
+  "discovered": "2025-05-16T12:54:45",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c081144b9a49aa37",
+  "name": "HIDROCARBUROS ARGENTINOS S.A.",
+  "group_name": "eldorado",
+  "sector": "Energy & Utilities",
+  "website": "hasa-arg.com",
+  "published": "2025-01-04T15:36:50",
+  "discovered": "2025-01-04T15:36:50",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b8ee13337fad3a0e",
+  "name": "visualsystemas.com.ar",
+  "group_name": "funksec",
+  "sector": "Tecnología",
+  "website": "visualsystemas.com.ar",
+  "published": "2024-12-22T19:10:39",
+  "discovered": "2024-12-22T19:10:42",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "11cf2fdc08003682",
+  "name": "casarom.com.ar",
+  "group_name": "funksec",
+  "sector": "Professional Services",
+  "website": "casarom.com.ar",
+  "published": "2024-12-22T19:07:33",
+  "discovered": "2024-12-22T19:07:34",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "be3c6838ef230861",
+  "name": "National Atomic Energy Commission",
+  "group_name": "moneymessage",
+  "sector": "Government & Defense",
+  "website": "cnea.gob.ar",
+  "published": "2024-12-18T17:17:52",
+  "discovered": "2024-12-18T17:17:55",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "0268f1277a7e76d3",
+  "name": "intellinet-es.com",
+  "group_name": "ransomhub",
+  "sector": "Tecnología",
+  "website": "intellinet-es.com",
+  "published": "2024-12-18T01:50:59",
+  "discovered": "2024-12-23T19:28:20",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b1ca267a7ea76a46",
+  "name": "Rio Negro",
+  "group_name": "akira",
+  "sector": "Retail & E-Commerce",
+  "website": "rionegro.com.ar",
+  "published": "2024-12-14T00:00:00",
+  "discovered": "2024-12-26T13:40:18",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c13973ab8cd1f1d1",
+  "name": "www.infoer.com.ar",
+  "group_name": "dragonransomware",
+  "sector": "Tecnología",
+  "website": "infoer.com.ar",
+  "published": "2024-12-10T00:10:20",
+  "discovered": "2024-12-15T09:54:18",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "726cdc10cf38d7fa",
+  "name": "Los Andes",
+  "group_name": "akira",
+  "sector": "Other",
+  "website": "losandes.com.ar",
+  "published": "2024-12-09T00:00:00",
+  "discovered": "2025-01-06T13:54:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "3b52099badf1b65d",
+  "name": "atpformosa.gob.ar",
+  "group_name": "lockbit3",
+  "sector": "Government & Defense",
+  "website": "atpformosa.gob.ar",
+  "published": "2024-11-29T00:00:00",
+  "discovered": "2025-01-13T21:32:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "665b8ba47d6fa802",
+  "name": "osmedica.com.ar",
+  "group_name": "ransomhub",
+  "sector": "Salud",
+  "website": "osmedica.com.ar",
+  "published": "2024-11-27T06:42:39",
+  "discovered": "2024-11-27T10:45:04",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "da306bc72aa1a4fe",
+  "name": "COOPERATIVA TELEFONICA DE CALAFATE LTD.",
+  "group_name": "braincipher",
+  "sector": "Professional Services",
+  "website": "cotecal.com.ar",
+  "published": "2024-11-13T16:40:51",
+  "discovered": "2024-11-13T16:40:55",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "642706cf73bbf75b",
+  "name": "Banco Sucredito Regional S.A.U.",
+  "group_name": "hunters",
+  "sector": "Finanzas",
+  "website": "bancosucredito.com.ar",
+  "published": "2024-10-25T00:00:00",
+  "discovered": "2024-11-11T00:10:27",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "96281ab24927bb2f",
+  "name": "www.tigre.gob.ar",
+  "group_name": "ransomhub",
+  "sector": "Government & Defense",
+  "website": "tigre.gob.ar",
+  "published": "2024-10-04T00:00:00",
+  "discovered": "2024-11-01T21:34:02",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "bed7a4620dd32a1b",
+  "name": "OMINT",
+  "group_name": "safepay",
+  "sector": "Salud",
+  "website": "omint.com.ar",
+  "published": "2024-09-27T00:00:00",
+  "discovered": "2024-11-19T22:19:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "db75ba40692def05",
+  "name": "Fabrica Industrial Machinery & Equipment",
+  "group_name": "trinity",
+  "sector": "Industria",
+  "website": "fabricasrl.com.ar",
+  "published": "2024-09-23T10:08:55",
+  "discovered": "2024-09-23T10:08:55",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "64403a1dc4196ef7",
+  "name": "Active Cosmetic",
+  "group_name": "safepay",
+  "sector": "Professional Services",
+  "website": "activecosmetic.com.ar",
+  "published": "2024-09-17T00:00:00",
+  "discovered": "2024-11-19T22:19:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "631c94a4f99579ca",
+  "name": "www.taperuvicha.com",
+  "group_name": "ransomhub",
+  "sector": "Hospitality",
+  "website": "taperuvicha.com",
+  "published": "2024-09-16T15:42:30",
+  "discovered": "2024-09-18T09:17:43",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "27ed163a705e824d",
+  "name": "CSMR Agrupación de Colaboración Empresaria",
+  "group_name": "meow",
+  "sector": "Agro y alimentos",
+  "website": null,
+  "published": "2024-09-12T18:03:22",
+  "discovered": "2024-09-12T18:03:25",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "6001528972c8d05d",
+  "name": "M.Royo & KlockMetal",
+  "group_name": "bianlian",
+  "sector": "Industria",
+  "website": "mroyoklock",
+  "published": "2024-08-28T18:26:14",
+  "discovered": "2024-08-28T18:26:15",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "ec9a6f280897162e",
+  "name": "www.quenotedeporten.com",
+  "group_name": "ransomhub",
+  "sector": "Professional Services",
+  "website": "quenotedeporten.com",
+  "published": "2024-08-15T00:00:00",
+  "discovered": "2024-09-18T09:08:31",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "2b7da1188977449b",
+  "name": "fabamaq.com",
+  "group_name": "braincipher",
+  "sector": "Industria",
+  "website": "fabamaq.com",
+  "published": "2024-08-12T23:02:40",
+  "discovered": "2024-08-12T23:02:42",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "4ca2b7eed233b988",
+  "name": "Santa Rosa",
+  "group_name": "hunters",
+  "sector": "Government & Defense",
+  "website": "santarosa.gob.ar",
+  "published": "2024-07-18T20:52:12",
+  "discovered": "2024-07-18T22:05:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "4477844330ed46ab",
+  "name": "Ocasa",
+  "group_name": "akira",
+  "sector": "Transporte y logística",
+  "website": "ocasa.com",
+  "published": "2024-06-26T12:35:42",
+  "discovered": "2024-06-27T12:35:42",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c55858a5340faba9",
+  "name": "decreditos.com",
+  "group_name": "darkvault",
+  "sector": "Finanzas",
+  "website": "decreditos.com",
+  "published": "2024-06-25T00:00:00",
+  "discovered": "2024-06-25T15:55:44",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a5e2e1d604a8d4f4",
+  "name": "Río Negro",
+  "group_name": "mallox",
+  "sector": "Agro y alimentos",
+  "website": null,
+  "published": "2024-06-03T13:48:00",
+  "discovered": "2024-06-04T14:49:02",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "6699ce6f392ca36c",
+  "name": "UNICRED.COM.AR",
+  "group_name": "clop",
+  "sector": "Finanzas",
+  "website": "UNICRED.COM.AR",
+  "published": "2024-05-30T14:56:33",
+  "discovered": "2024-05-30T14:56:33",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e631326ab50ae843",
+  "name": "Amarilla Gas",
+  "group_name": "play",
+  "sector": "Energy & Utilities",
+  "website": "amarillagas.com",
+  "published": "2024-05-14T00:00:00",
+  "discovered": "2024-06-13T05:52:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b0c2e46908f7d07f",
+  "name": "Cusat",
+  "group_name": "arcusmedia",
+  "sector": "Tecnología",
+  "website": "Cusat.com.ar",
+  "published": "2024-05-11T00:00:28",
+  "discovered": "2024-05-15T05:36:30",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "06e831d36772fd3f",
+  "name": "Banco central argentina",
+  "group_name": "zerotolerance",
+  "sector": "Finanzas",
+  "website": "bcra.gob.ar",
+  "published": "2024-05-05T05:53:55",
+  "discovered": "2024-05-09T19:12:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "bb85ac7ca9bab2b4",
+  "name": "Lopez Hnos",
+  "group_name": "rhysida",
+  "sector": "Agro y alimentos",
+  "website": "lopezhnos.com.ar",
+  "published": "2024-05-02T14:14:43",
+  "discovered": "2024-05-02T14:14:43",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f3cfa15e7bb7bbb9",
+  "name": "dagma.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Professional Services",
+  "website": "dagma.com.ar",
+  "published": "2024-04-21T00:00:00",
+  "discovered": "2024-05-09T16:36:07",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e0de23d975949f1f",
+  "name": "Telecentro",
+  "group_name": "akira",
+  "sector": "Professional Services",
+  "website": "telecentro.com.ar",
+  "published": "2024-03-06T14:43:34",
+  "discovered": "2024-03-06T14:43:34",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "4dc6def75efcd1ce",
+  "name": "Abelsantosyasoc",
+  "group_name": "stormous",
+  "sector": "Other",
+  "website": "Abelsantosyasoc.com.ar",
+  "published": "2024-02-14T00:00:00",
+  "discovered": "2024-02-26T03:47:38",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "fcc14c50007d7cef",
+  "name": "cabc.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Agro y alimentos",
+  "website": "cabc.com.ar",
+  "published": "2024-02-12T08:57:00",
+  "discovered": "2024-02-12T10:28:36",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "bbd880146129a069",
+  "name": "Distecna",
+  "group_name": "akira",
+  "sector": "Tecnología",
+  "website": null,
+  "published": "2024-02-08T17:47:14",
+  "discovered": "2024-02-08T17:47:14",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "bc68a64f89b93d40",
+  "name": "Abelsantosyasoc.com.ar",
+  "group_name": "stormous",
+  "sector": "Salud",
+  "website": "abelsantosyasoc.com.ar",
+  "published": "2024-02-02T22:32:50",
+  "discovered": "2024-02-02T22:32:50",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "9ca17cd3537434f6",
+  "name": "AbelSantosyAsociados",
+  "group_name": "knight",
+  "sector": "Finanzas",
+  "website": null,
+  "published": "2024-02-02T15:51:10",
+  "discovered": "2024-02-02T15:51:10",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "6ff0e2cd0f4af7eb",
+  "name": "mutualclubunion.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Finanzas",
+  "website": "mutualclubunion.com.ar",
+  "published": "2024-01-31T00:00:00",
+  "discovered": "2024-05-09T13:10:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f99db47d058ec556",
+  "name": "sitrack.com",
+  "group_name": "lockbit3",
+  "sector": "Tecnología",
+  "website": "sitrack.com",
+  "published": "2024-01-29T00:00:00",
+  "discovered": "2024-02-15T11:56:43",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "15be29d215e01b70",
+  "name": "csmsa.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Industria",
+  "website": "csmsa.com.ar",
+  "published": "2023-12-22T19:54:00",
+  "discovered": "2023-12-22T20:36:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "18933a282e3e1bdb",
+  "name": "Dafiti Argentina",
+  "group_name": "dragonforce",
+  "sector": "Retail & E-Commerce",
+  "website": "dafiti.com.ar",
+  "published": "2023-12-13T00:00:00",
+  "discovered": "2023-12-13T23:13:05",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "aab3a5bda7d66572",
+  "name": "Mitrani Caballero Ojam & Ruiz Moreno - Abogados",
+  "group_name": "akira",
+  "sector": "Professional Services",
+  "website": "mcolex.com",
+  "published": "2023-12-12T15:10:30",
+  "discovered": "2023-12-12T15:10:30",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "7d2bd6c55b05a9c3",
+  "name": "Jockey Club",
+  "group_name": "medusa",
+  "sector": "Hospitality",
+  "website": null,
+  "published": "2023-10-30T09:25:25",
+  "discovered": "2023-10-30T11:23:02",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "00e76b7681155e20",
+  "name": "Hospital Italiano de Buenos Aires",
+  "group_name": "knight",
+  "sector": "Salud",
+  "website": "hospitalitaliano.org.ar",
+  "published": "2023-10-13T11:38:42",
+  "discovered": "2023-10-13T11:38:42",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "17dc0b4abf430f2c",
+  "name": "Bit",
+  "group_name": "losttrust",
+  "sector": "Agro y alimentos",
+  "website": "bit.com.ar",
+  "published": "2023-09-26T11:10:35",
+  "discovered": "2023-09-26T11:10:35",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "b078f4fe9ba4d550",
+  "name": "GYP New Tree SA",
+  "group_name": "qilin",
+  "sector": "Retail & E-Commerce",
+  "website": "newtree.com.ar",
+  "published": "2023-08-28T11:40:16",
+  "discovered": "2023-08-28T11:40:16",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "c5e7bd380e793049",
+  "name": "National Institute of Social Services for Retirees and Pensioners",
+  "group_name": "rhysida",
+  "sector": "Government & Defense",
+  "website": "pami.org.ar/",
+  "published": "2023-08-12T09:07:15",
+  "discovered": "2023-08-12T09:07:15",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "ea3f352c889cbe19",
+  "name": "Papel Prensa SA",
+  "group_name": "akira",
+  "sector": "Industria",
+  "website": "papelprensa.com",
+  "published": "2023-08-07T12:05:46",
+  "discovered": "2023-08-07T12:05:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "46252d02a51ad85f",
+  "name": "BTU",
+  "group_name": "8base",
+  "sector": "Energy & Utilities",
+  "website": null,
+  "published": "2023-07-13T00:00:00",
+  "discovered": "2023-07-13T05:59:25",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "9b6d6e9c3b6587cc",
+  "name": "Algeibacom has a critical level of security on its network Customer and partner data is st",
+  "group_name": "alphv",
+  "sector": "Tecnología",
+  "website": "algeiba.com",
+  "published": "2023-07-12T12:47:45",
+  "discovered": "2023-07-26T14:12:54",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a771ce217d847a52",
+  "name": "Comisión Nacional de Valores",
+  "group_name": "medusa",
+  "sector": "Finanzas",
+  "website": "cnv.gob.ar",
+  "published": "2023-06-11T09:58:30",
+  "discovered": "2023-06-11T11:00:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "72e1eed46090ab06",
+  "name": "Del Bono Hotel",
+  "group_name": "qilin",
+  "sector": "Hospitality",
+  "website": "delbonohotels.com",
+  "published": "2023-06-09T13:00:14",
+  "discovered": "2023-06-09T13:00:14",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "00853daeb68e6847",
+  "name": "AKRON Mquinas Agrcolas",
+  "group_name": "alphv",
+  "sector": "Agro y alimentos",
+  "website": "akron.com.ar/",
+  "published": "2023-05-13T07:03:46",
+  "discovered": "2023-07-26T14:54:26",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "3056ec2a2bfe72a9",
+  "name": "norton.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Tecnología",
+  "website": "norton.com.ar",
+  "published": "2023-04-23T18:16:00",
+  "discovered": "2023-04-23T18:48:52",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f9f78d746899d455",
+  "name": "DAVINCI",
+  "group_name": "stormous",
+  "sector": "Educación",
+  "website": "davinci.edu.ar/",
+  "published": "2023-03-25T21:14:55",
+  "discovered": "2023-03-25T21:14:55",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "105b61aea995db5f",
+  "name": "GLOBALFARM.COM.AR",
+  "group_name": "clop",
+  "sector": "Tecnología",
+  "website": "GLOBALFARM.COM.AR",
+  "published": "2023-03-24T11:10:33",
+  "discovered": "2023-03-24T11:10:33",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "06467a20a2adc8ed",
+  "name": "jaureguy.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Agro y alimentos",
+  "website": "jaureguy.com.ar",
+  "published": "2023-03-13T14:00:00",
+  "discovered": "2023-03-19T19:09:24",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "38f3e382403a08d3",
+  "name": "Garbarino SAICeI",
+  "group_name": "medusa",
+  "sector": "Retail & E-Commerce",
+  "website": "garbarino.com.ar",
+  "published": "2023-03-09T22:05:47",
+  "discovered": "2023-03-09T23:22:37",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "e790c960d84829c0",
+  "name": "lasegunda.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Finanzas",
+  "website": "lasegunda.com.ar",
+  "published": "2023-02-21T19:24:40",
+  "discovered": "2023-02-21T19:24:40",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "a39d508ab3bc6ee7",
+  "name": "albanesi.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Energy & Utilities",
+  "website": "albanesi.com.ar",
+  "published": "2023-02-14T11:23:08",
+  "discovered": "2023-02-14T11:23:08",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "5e5decc5297b46c3",
+  "name": "lapiamontesa",
+  "group_name": "blackbyte",
+  "sector": "Industria",
+  "website": "lapiamontesa.com",
+  "published": "2022-11-22T17:31:09",
+  "discovered": "2022-11-22T17:31:09",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "19e975fdcb8e66d7",
+  "name": "macrotel.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Tecnología",
+  "website": "macrotel.com.ar",
+  "published": "2022-10-31T09:32:58",
+  "discovered": "2022-10-31T09:32:58",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "464e61dd6682ab7a",
+  "name": "correounir.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Other",
+  "website": "correounir.com.ar",
+  "published": "2022-07-28T14:55:36",
+  "discovered": "2022-07-28T14:55:36",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "937d63f94f69655c",
+  "name": "osde.com.ar",
+  "group_name": "lockbit3",
+  "sector": "Finanzas",
+  "website": "osde.com.ar",
+  "published": "2022-07-22T18:50:59",
+  "discovered": "2022-07-22T18:50:59",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "de3b74f9f8b5f5b9",
+  "name": "Arte Radiotelevisivo Argentino (Artear)",
+  "group_name": "hive",
+  "sector": "Tecnología",
+  "website": null,
+  "published": "2022-06-23T13:50:17",
+  "discovered": "2022-06-23T13:50:17",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f7fb387cc7dea60c",
+  "name": "cassagne.com.ar",
+  "group_name": "lockbit2",
+  "sector": "Professional Services",
+  "website": "cassagne.com.ar",
+  "published": "2022-05-16T11:46:32",
+  "discovered": "2022-05-16T11:46:32",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "dab1f9913f4be2f2",
+  "name": "cronos.com.ar",
+  "group_name": "lockbit2",
+  "sector": "Tecnología",
+  "website": "cronos.com.ar",
+  "published": "2022-04-25T11:28:53",
+  "discovered": "2022-04-25T11:28:53",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "f1d68494d2ea2200",
+  "name": "ledesma.com.ar",
+  "group_name": "lockbit2",
+  "sector": "Agro y alimentos",
+  "website": "ledesma.com.ar",
+  "published": "2022-04-02T08:18:46",
+  "discovered": "2022-04-02T08:18:46",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "6eca645db639d586",
+  "name": "e-fmc.com.ar",
+  "group_name": "lockbit2",
+  "sector": "Finanzas",
+  "website": "e-fmc.com.ar",
+  "published": "2022-03-01T16:21:57",
+  "discovered": "2022-03-01T16:21:57",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "5cb2a3268b5b1c9c",
+  "name": "Direccion Nacional de Migraciones (Argentina's official immigration agency)",
+  "group_name": "netwalker",
+  "sector": "Government & Defense",
+  "website": null,
+  "published": "2020-08-27T00:00:00",
+  "discovered": "2020-08-27T00:00:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "478baa0fff91dfd1",
+  "name": "Telecom Argentina",
+  "group_name": "revil",
+  "sector": "Tecnología",
+  "website": null,
+  "published": "2020-07-18T00:00:00",
+  "discovered": "2020-07-18T00:00:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ },
+ {
+  "id": "17b3a0018253bb36",
+  "name": "Enel Argentina Edesur S.A. Buenos Aires",
+  "group_name": "snake",
+  "sector": "Energy & Utilities",
+  "website": null,
+  "published": "2020-06-07T00:00:00",
+  "discovered": "2020-06-07T00:00:00",
+  "first_seen": "2026-11-06T00:34:49Z"
+ }
+]

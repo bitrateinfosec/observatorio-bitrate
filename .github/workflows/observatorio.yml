@@ -1,0 +1,82 @@
+name: Observatorio BitRate
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # recolección cada 2 horas
+    - cron: "41 12 * * 1"    # reporte semanal: lunes 09:41 (ART)
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "Tarea a ejecutar"
+        type: choice
+        options: [collect, report]
+        default: collect
+  push:
+    branches: [main]
+    paths: ["site/**"]       # redeploy si cambiás el frontend
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: observatorio
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Mes actual (para la caché de DB-IP)
+        id: month
+        run: echo "ym=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+      - name: Caché de bases de geolocalización (DB-IP)
+        uses: actions/cache@v4
+        with:
+          path: data/*.mmdb
+          key: dbip-${{ steps.month.outputs.ym }}
+
+      - name: Recolectar
+        if: ${{ github.event_name != 'push' && (github.event.schedule == '17 */2 * * *' || inputs.task == 'collect') }}
+        env:
+          ABUSECH_AUTH_KEY: ${{ secrets.ABUSECH_AUTH_KEY }}
+          RANSOMWARELIVE_API_KEY: ${{ secrets.RANSOMWARELIVE_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python -m collector collect
+
+      - name: Reporte semanal
+        if: ${{ github.event.schedule == '41 12 * * 1' || inputs.task == 'report' }}
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_REPORTS: ${{ secrets.DISCORD_WEBHOOK_REPORTS }}
+        run: python -m collector report
+
+      - name: Guardar histórico en el repo
+        if: ${{ github.event_name != 'push' }}
+        run: |
+          git config user.name  "observatorio-bot"
+          git config user.email "observatorio-bot@users.noreply.github.com"
+          git add -A data site/data reports
+          git diff --cached --quiet || git commit -m "datos: actualización $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

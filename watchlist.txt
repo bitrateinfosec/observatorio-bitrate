@@ -1,0 +1,10 @@
+# Watchlist del Observatorio BitRate
+# Un término por línea (dominio o parte del nombre). Si aparece en una víctima
+# o en un IOC, la alerta de Discord sale marcada como ⚠️ WATCHLIST.
+# Las líneas que empiezan con # se ignoran.
+
+# Ejemplos (descomentá y adaptá):
+# sanjeronimosud.gob.ar
+# ugr.edu.ar
+# santafe.gob.ar
+# rosario.gob.ar

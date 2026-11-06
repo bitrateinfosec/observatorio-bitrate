@@ -1,0 +1,180 @@
+{
+ "generated_at": "2026-11-06T00:34:53Z",
+ "totals": {
+  "victims": 225,
+  "victims_30d": 12,
+  "victims_7d": 4,
+  "groups": 74,
+  "groups_30d": 9,
+  "iocs": 1,
+  "iocs_7d": 1
+ },
+ "timeline": [
+  {
+   "month": "2025-12",
+   "count": 10
+  },
+  {
+   "month": "2026-01",
+   "count": 3
+  },
+  {
+   "month": "2026-02",
+   "count": 4
+  },
+  {
+   "month": "2026-03",
+   "count": 3
+  },
+  {
+   "month": "2026-04",
+   "count": 5
+  },
+  {
+   "month": "2026-05",
+   "count": 9
+  },
+  {
+   "month": "2026-06",
+   "count": 7
+  },
+  {
+   "month": "2026-07",
+   "count": 19
+  },
+  {
+   "month": "2026-08",
+   "count": 13
+  },
+  {
+   "month": "2026-09",
+   "count": 17
+  },
+  {
+   "month": "2026-10",
+   "count": 14
+  },
+  {
+   "month": "2026-11",
+   "count": 1
+  }
+ ],
+ "top_groups": [
+  {
+   "name": "qilin",
+   "count": 40
+  },
+  {
+   "name": "thegentlemen",
+   "count": 19
+  },
+  {
+   "name": "lockbit3",
+   "count": 14
+  },
+  {
+   "name": "safepay",
+   "count": 12
+  },
+  {
+   "name": "akira",
+   "count": 9
+  },
+  {
+   "name": "dragonforce",
+   "count": 8
+  },
+  {
+   "name": "lockbit5",
+   "count": 6
+  },
+  {
+   "name": "ransomhub",
+   "count": 6
+  },
+  {
+   "name": "incransom",
+   "count": 5
+  },
+  {
+   "name": "nova",
+   "count": 5
+  }
+ ],
+ "top_groups_30d": [
+  {
+   "name": "qilin",
+   "count": 4
+  },
+  {
+   "name": "play",
+   "count": 1
+  },
+  {
+   "name": "safepay",
+   "count": 1
+  },
+  {
+   "name": "nightspire",
+   "count": 1
+  },
+  {
+   "name": "thegentlemen",
+   "count": 1
+  }
+ ],
+ "sectors": [
+  {
+   "name": "Industria",
+   "count": 29
+  },
+  {
+   "name": "Tecnología",
+   "count": 24
+  },
+  {
+   "name": "Salud",
+   "count": 24
+  },
+  {
+   "name": "Agro y alimentos",
+   "count": 22
+  },
+  {
+   "name": "Professional Services",
+   "count": 21
+  },
+  {
+   "name": "Retail & E-Commerce",
+   "count": 20
+  },
+  {
+   "name": "Government & Defense",
+   "count": 16
+  },
+  {
+   "name": "Other",
+   "count": 15
+  },
+  {
+   "name": "Finanzas",
+   "count": 14
+  },
+  {
+   "name": "Energy & Utilities",
+   "count": 11
+  }
+ ],
+ "top_asns": [
+  {
+   "name": "AS266702 MEGALINK S.R.L.",
+   "count": 1
+  }
+ ],
+ "malware": [
+  {
+   "name": "Mozi",
+   "count": 1
+  }
+ ]
+}
