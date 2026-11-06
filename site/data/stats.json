@@ -1,13 +1,17 @@
 {
- "generated_at": "2026-11-06T11:13:00Z",
+ "generated_at": "2026-11-06T12:57:09Z",
  "totals": {
   "victims": 225,
   "victims_30d": 12,
+  "victims_prev_30d": 18,
   "victims_7d": 4,
+  "victims_prev_7d": 4,
   "groups": 74,
   "groups_30d": 9,
+  "groups_prev_30d": 12,
   "iocs": 1,
-  "iocs_7d": 1
+  "iocs_7d": 1,
+  "iocs_prev_7d": 0
  },
  "timeline": [
   {
@@ -56,7 +60,8 @@
   },
   {
    "month": "2026-11",
-   "count": 1
+   "count": 1,
+   "partial": true
   }
  ],
  "top_groups": [
@@ -101,6 +106,48 @@
    "count": 5
   }
  ],
+ "top_groups_12m": [
+  {
+   "name": "qilin",
+   "count": 34
+  },
+  {
+   "name": "thegentlemen",
+   "count": 15
+  },
+  {
+   "name": "safepay",
+   "count": 8
+  },
+  {
+   "name": "dragonforce",
+   "count": 6
+  },
+  {
+   "name": "lockbit5",
+   "count": 4
+  },
+  {
+   "name": "deadlock",
+   "count": 4
+  },
+  {
+   "name": "threeam",
+   "count": 3
+  },
+  {
+   "name": "incransom",
+   "count": 3
+  },
+  {
+   "name": "nova",
+   "count": 3
+  },
+  {
+   "name": "n0n",
+   "count": 2
+  }
+ ],
  "top_groups_30d": [
   {
    "name": "qilin",
@@ -141,19 +188,19 @@
    "count": 22
   },
   {
-   "name": "Professional Services",
+   "name": "Servicios profesionales",
    "count": 21
   },
   {
-   "name": "Retail & E-Commerce",
+   "name": "Comercio",
    "count": 20
   },
   {
-   "name": "Government & Defense",
+   "name": "Sector público",
    "count": 16
   },
   {
-   "name": "Other",
+   "name": "Otros",
    "count": 15
   },
   {
@@ -161,8 +208,50 @@
    "count": 14
   },
   {
-   "name": "Energy & Utilities",
+   "name": "Energía y servicios públicos",
    "count": 11
+  }
+ ],
+ "sectors_12m": [
+  {
+   "name": "Industria",
+   "count": 18
+  },
+  {
+   "name": "Comercio",
+   "count": 14
+  },
+  {
+   "name": "Salud",
+   "count": 12
+  },
+  {
+   "name": "Otros",
+   "count": 11
+  },
+  {
+   "name": "Servicios profesionales",
+   "count": 11
+  },
+  {
+   "name": "Agro y alimentos",
+   "count": 10
+  },
+  {
+   "name": "Tecnología",
+   "count": 8
+  },
+  {
+   "name": "Sector público",
+   "count": 6
+  },
+  {
+   "name": "Sin datos",
+   "count": 6
+  },
+  {
+   "name": "Energía y servicios públicos",
+   "count": 4
   }
  ],
  "top_asns": [
