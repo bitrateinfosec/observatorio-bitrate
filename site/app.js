@@ -294,7 +294,15 @@
         if (!en.isIntersecting) return;
         links.forEach((a) => a.removeAttribute("aria-current"));
         const a = map.get(en.target.id);
-        if (a) { a.setAttribute("aria-current", "true"); a.scrollIntoView({ block: "nearest", inline: "nearest" }); }
+        if (!a) return;
+        a.setAttribute("aria-current", "true");
+        // Solo desplaza el menú en horizontal (mobile). Nunca usar scrollIntoView acá:
+        // el menú está en un header sticky y eso arrastra la página entera.
+        const nav = a.parentElement;
+        if (nav.scrollWidth > nav.clientWidth) {
+          const target = a.offsetLeft - (nav.clientWidth - a.offsetWidth) / 2;
+          nav.scrollTo({ left: Math.max(0, target), behavior: reduceMotion ? "auto" : "smooth" });
+        }
       });
     }, { rootMargin: "-45% 0px -50% 0px" });
     map.forEach((_, id) => { const s = document.getElementById(id); if (s) io.observe(s); });
