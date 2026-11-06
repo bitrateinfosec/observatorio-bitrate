@@ -4,6 +4,7 @@ import time
 
 from .config import BRAND_RED, DISCORD_WEBHOOK_REPORTS, DISCORD_WEBHOOK_URL
 from .http import request
+from .sectors import normalize_sector
 
 FOOTER = {"text": "Observatorio BitRate · Datos públicos · bitrate infosec"}
 WHITE = 0xFFFFFF
@@ -33,7 +34,7 @@ def send(embeds: list[dict], webhook: str | None = None, content: str | None = N
 def victim_embed(v: dict, watch_hit: str | None = None) -> dict:
     fields = [
         {"name": "Grupo", "value": v["group_name"].upper(), "inline": True},
-        {"name": "Sector", "value": v.get("sector") or "Sin datos", "inline": True},
+        {"name": "Sector", "value": normalize_sector(v.get("sector")) or "Sin datos", "inline": True},
         {"name": "Publicado", "value": (v.get("published") or "—")[:10], "inline": True},
     ]
     if v.get("website"):

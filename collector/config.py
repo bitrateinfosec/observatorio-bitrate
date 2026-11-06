@@ -8,7 +8,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
-SITE_DATA_DIR = ROOT / "site" / "data"
+SITE_DIR = ROOT / "site"
+SITE_DATA_DIR = SITE_DIR / "data"
 REPORTS_DIR = ROOT / "reports"
 DB_PATH = DATA_DIR / "observatorio.db"
 WATCHLIST_PATH = ROOT / "watchlist.txt"
@@ -32,9 +33,12 @@ GEOIP_COUNTRY_DB = Path(os.getenv("GEOIP_COUNTRY_DB") or _pick_db("GeoLite2-Coun
 GEOIP_ASN_DB = Path(os.getenv("GEOIP_ASN_DB") or _pick_db("GeoLite2-ASN.mmdb", "dbip-asn-lite.mmdb"))
 GEO_MAX_AGE_DAYS = 35  # DB-IP publica una versión nueva cada mes
 
+# URL pública del sitio (con barra final). Se usa en el feed RSS.
+SITE_URL = os.getenv("SITE_URL", "https://bitrateinfosec.github.io/observatorio-bitrate/")
+
 # --- Parámetros ---
 COUNTRY_CODE = "AR"
-USER_AGENT = "ObservatorioBitRate/1.0 (+https://github.com/) threat-intel comunitario"
+USER_AGENT = "ObservatorioBitRate/1.0 (+https://github.com/bitrateinfosec/observatorio-bitrate) threat-intel comunitario"
 HTTP_TIMEOUT = 30
 THREATFOX_DAYS = 2          # ventana de consulta (1–7)
 URLHAUS_LIMIT = 1000        # máx. permitido por la API "recent"

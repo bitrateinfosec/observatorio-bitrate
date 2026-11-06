@@ -3,6 +3,7 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 
 from .config import REPORTS_DIR
+from .sectors import normalize_sector
 
 
 def weekly(conn) -> tuple[str, str]:
@@ -12,6 +13,8 @@ def weekly(conn) -> tuple[str, str]:
         """SELECT name, group_name, sector, COALESCE(published, discovered, first_seen) AS d
            FROM victims WHERE hidden = 0 AND COALESCE(published, discovered, first_seen) >= ?
            ORDER BY d DESC""", (since,))]
+    for v in victims:
+        v["sector"] = normalize_sector(v["sector"])
     iocs = [dict(r) for r in conn.execute(
         "SELECT malware, asn, as_name, source FROM iocs WHERE first_seen >= ?", (since,))]
 

@@ -11,6 +11,7 @@ import os
 
 from ..config import COUNTRY_CODE, RANSOMWARELIVE_API_KEY
 from ..http import get_json
+from ..sectors import normalize_sector
 
 NAME = "ransomware.live"
 
@@ -18,22 +19,6 @@ NAME = "ransomware.live"
 FREE_URL = os.getenv("RL_FREE_URL", "https://api.ransomware.live/v2/countryvictims/{cc}")
 PRO_URL = os.getenv("RL_PRO_URL", "https://api-pro.ransomware.live/victims/?country={cc}")
 
-SECTORES = {
-    "healthcare": "Salud", "health": "Salud",
-    "public sector": "Sector público", "government": "Sector público",
-    "education": "Educación",
-    "financial services": "Finanzas", "finance": "Finanzas", "banking": "Finanzas",
-    "manufacturing": "Industria",
-    "technology": "Tecnología", "it": "Tecnología",
-    "construction": "Construcción",
-    "transportation/logistics": "Transporte y logística", "transportation": "Transporte y logística",
-    "retail": "Comercio", "consumer services": "Servicios",
-    "business services": "Servicios empresariales",
-    "agriculture and food production": "Agro y alimentos", "agriculture": "Agro y alimentos",
-    "energy": "Energía", "telecommunication": "Telecomunicaciones",
-    "hospitality and tourism": "Turismo", "legal": "Legal",
-    "not found": None, "": None,
-}
 
 
 def _pick(d: dict, *keys):
@@ -54,7 +39,7 @@ def normalize(raw: dict) -> dict | None:
     if not name or not group:
         return None
     sector_raw = str(_pick(raw, "activity", "sector", "industry") or "").strip()
-    sector = SECTORES.get(sector_raw.lower(), sector_raw or None)
+    sector = normalize_sector(sector_raw)
     vid = hashlib.sha1(f"{group.lower()}|{name.lower().strip()}".encode()).hexdigest()[:16]
     return {
         "id": vid,

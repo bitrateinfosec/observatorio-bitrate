@@ -10,7 +10,7 @@ El Observatorio BitRate es un tracker público y automatizado que:
 - 🟥 **Sigue las víctimas argentinas** que los grupos de ransomware reivindican en sus sitios de filtración (vía ransomware.live).
 - 🛰️ **Detecta IOCs alojados en infraestructura argentina**, como servidores C2, URLs de malware y botnets (vía abuse.ch: ThreatFox, URLhaus y Feodo Tracker).
 - 🔔 **Alerta por Discord** cuando aparece algo nuevo, con prioridad para lo que está en tu **watchlist**.
-- 📊 **Publica un sitio web estático** con estadísticas, tendencias y tablas filtrables. Los IOCs se pueden exportar en CSV.
+- 📊 **Publica un sitio web estático y responsive** con estadísticas, tendencias, comparación con el período anterior y tablas filtrables. Los IOCs se pueden exportar en CSV y las víctimas tienen feed RSS.
 - 📝 **Genera un reporte semanal** en Markdown, listo para Discord y para publicar en Bitrate.
 
 Costo: **$0**. Corre en GitHub Actions y se publica en GitHub Pages. No hay servidor ni base de datos expuesta.
@@ -110,7 +110,8 @@ Creá `site/CNAME` con tu dominio (ej: `observatorio.bitrate.com.ar`) y apuntá 
 - [ ] Bot de Discord con comandos (`/victimas 7d`, `/grupo akira`)
 - [ ] Fichas por grupo (TTPs MITRE ATT&CK, primeras/últimas apariciones)
 - [ ] Exportación STIX 2.1 / feed MISP
-- [ ] Feed RSS de víctimas y reportes
+- [x] Feed RSS de víctimas (`site/feed.xml`)
+- [ ] Páginas de reportes semanales en el sitio
 
 ---
 <sub>Hecho por Ezequiel “Toto” Retamar · Bitrate Infosec · Tecnicatura Universitaria en Ciberseguridad (UGR)</sub>
