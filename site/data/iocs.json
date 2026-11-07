@@ -1,5 +1,29 @@
 [
  {
+  "value": "128.90.113.80:5050",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "DCRat",
+  "asn": 40861,
+  "as_name": "Paradise Networks LLC",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2018645/",
+  "first_seen": "2026-11-07T05:09:08"
+ },
+ {
+  "value": "128.90.113.80:5051",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "DCRat",
+  "asn": 40861,
+  "as_name": "Paradise Networks LLC",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2018636/",
+  "first_seen": "2026-11-07T05:08:38"
+ },
+ {
   "value": "http://190.196.253.115:11028/Mozi.m",
   "ioc_type": "url",
   "threat": "payload_delivery",
