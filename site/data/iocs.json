@@ -1,5 +1,17 @@
 [
  {
+  "value": "http://190.196.253.79:10760/Mozi.m",
+  "ioc_type": "url",
+  "threat": "payload_delivery",
+  "malware": "Mozi",
+  "asn": 266702,
+  "as_name": "MEGALINK S.R.L.",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2018940/",
+  "first_seen": "2026-11-07T12:19:20"
+ },
+ {
   "value": "128.90.113.80:5050",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",
