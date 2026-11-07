@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-06T22:52:00Z",
+ "generated_at": "2026-11-07T01:12:32Z",
  "totals": {
   "victims": 225,
   "victims_30d": 12,
-  "victims_prev_30d": 18,
-  "victims_7d": 4,
-  "victims_prev_7d": 4,
+  "victims_prev_30d": 16,
+  "victims_7d": 3,
+  "victims_prev_7d": 3,
   "groups": 74,
   "groups_30d": 9,
-  "groups_prev_30d": 12,
+  "groups_prev_30d": 11,
   "iocs": 1,
   "iocs_7d": 1,
   "iocs_prev_7d": 0
@@ -124,12 +124,12 @@
    "count": 6
   },
   {
-   "name": "lockbit5",
+   "name": "deadlock",
    "count": 4
   },
   {
-   "name": "deadlock",
-   "count": 4
+   "name": "lockbit5",
+   "count": 3
   },
   {
    "name": "threeam",
@@ -235,7 +235,7 @@
   },
   {
    "name": "Agro y alimentos",
-   "count": 10
+   "count": 9
   },
   {
    "name": "Tecnología",
