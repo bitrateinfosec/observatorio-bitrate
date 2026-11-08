@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T20:48:05Z",
+ "generated_at": "2026-11-08T22:47:51Z",
  "totals": {
   "victims": 225,
   "victims_30d": 12,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 9,
   "groups_prev_30d": 9,
-  "iocs": 7,
-  "iocs_7d": 7,
+  "iocs": 8,
+  "iocs_7d": 8,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -276,6 +276,10 @@
   {
    "name": "DCRat",
    "count": 2
+  },
+  {
+   "name": "IClickFix",
+   "count": 1
   },
   {
    "name": "Cobalt Strike",

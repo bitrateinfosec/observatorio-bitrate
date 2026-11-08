@@ -1,5 +1,17 @@
 [
  {
+  "value": "plumshop.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "IClickFix",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2021146/",
+  "first_seen": "2026-11-08T21:17:50"
+ },
+ {
   "value": "149.50.159.183:50150",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",
