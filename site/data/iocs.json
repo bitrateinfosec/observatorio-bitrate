@@ -1,5 +1,17 @@
 [
  {
+  "value": "149.50.159.183:50150",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "Cobalt Strike",
+  "asn": 27823,
+  "as_name": "Dattatec.com",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2020172/",
+  "first_seen": "2026-11-08T05:10:46"
+ },
+ {
   "value": "rufinopastor.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",

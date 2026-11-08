@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T05:01:38Z",
+ "generated_at": "2026-11-08T07:14:40Z",
  "totals": {
   "victims": 225,
   "victims_30d": 12,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 9,
   "groups_prev_30d": 9,
-  "iocs": 6,
-  "iocs_7d": 6,
+  "iocs": 7,
+  "iocs_7d": 7,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -262,6 +262,10 @@
   {
    "name": "AS40861 Paradise Networks LLC",
    "count": 2
+  },
+  {
+   "name": "AS27823 Dattatec.com",
+   "count": 1
   }
  ],
  "malware": [
@@ -272,6 +276,10 @@
   {
    "name": "DCRat",
    "count": 2
+  },
+  {
+   "name": "Cobalt Strike",
+   "count": 1
   },
   {
    "name": "Unknown Loader",
