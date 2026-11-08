@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-07T22:47:58Z",
+ "generated_at": "2026-11-08T01:17:08Z",
  "totals": {
   "victims": 225,
   "victims_30d": 12,
-  "victims_prev_30d": 16,
-  "victims_7d": 3,
-  "victims_prev_7d": 3,
+  "victims_prev_30d": 12,
+  "victims_7d": 1,
+  "victims_prev_7d": 4,
   "groups": 74,
   "groups_30d": 9,
-  "groups_prev_30d": 11,
-  "iocs": 5,
-  "iocs_7d": 5,
+  "groups_prev_30d": 9,
+  "iocs": 6,
+  "iocs_7d": 6,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -272,6 +272,10 @@
   {
    "name": "DCRat",
    "count": 2
+  },
+  {
+   "name": "Unknown Loader",
+   "count": 1
   },
   {
    "name": "ClearFake",

@@ -1,5 +1,17 @@
 [
  {
+  "value": "rufinopastor.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2019738/",
+  "first_seen": "2026-11-07T23:10:24"
+ },
+ {
   "value": "hotelr9.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",
