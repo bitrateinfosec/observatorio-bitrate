@@ -1,5 +1,17 @@
 [
  {
+  "value": "http://190.196.253.6:10481/Mozi.m",
+  "ioc_type": "url",
+  "threat": "payload_delivery",
+  "malware": "Mozi",
+  "asn": 266702,
+  "as_name": "MEGALINK S.R.L.",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2022330/",
+  "first_seen": "2026-11-09T18:19:03"
+ },
+ {
   "value": "plumshop.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",
