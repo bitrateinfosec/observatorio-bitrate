@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T15:00:13Z",
+ "generated_at": "2026-11-10T17:02:17Z",
  "totals": {
   "victims": 225,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 9,
   "groups_prev_30d": 9,
-  "iocs": 10,
-  "iocs_7d": 10,
+  "iocs": 12,
+  "iocs_7d": 12,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -258,6 +258,10 @@
   {
    "name": "AS266702 MEGALINK S.R.L.",
    "count": 3
+  },
+  {
+   "name": "AS27935 Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
+   "count": 2
   },
   {
    "name": "AS40861 Paradise Networks LLC",

@@ -1,5 +1,29 @@
 [
  {
+  "value": "http://200.3.186.136:59356/i",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": null,
+  "asn": 27935,
+  "as_name": "Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4062701/",
+  "first_seen": "2026-11-10T16:47:06"
+ },
+ {
+  "value": "http://200.3.186.136:59356/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": null,
+  "asn": 27935,
+  "as_name": "Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4062696/",
+  "first_seen": "2026-11-10T16:17:21"
+ },
+ {
   "value": "http://181.239.158.144:37956/Mozi.a",
   "ioc_type": "url",
   "threat": "payload_delivery",
