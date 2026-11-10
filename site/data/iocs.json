@@ -1,5 +1,17 @@
 [
  {
+  "value": "http://181.239.158.144:37956/Mozi.a",
+  "ioc_type": "url",
+  "threat": "payload_delivery",
+  "malware": "Mozi",
+  "asn": 11664,
+  "as_name": "Techtel LMDS Comunicaciones Interactivas S.A.",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2022394/",
+  "first_seen": "2026-11-10T00:19:03"
+ },
+ {
   "value": "http://190.196.253.6:10481/Mozi.m",
   "ioc_type": "url",
   "threat": "payload_delivery",

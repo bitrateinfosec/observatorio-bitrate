@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-09T22:56:16Z",
+ "generated_at": "2026-11-10T01:14:11Z",
  "totals": {
   "victims": 225,
-  "victims_30d": 12,
-  "victims_prev_30d": 12,
+  "victims_30d": 11,
+  "victims_prev_30d": 13,
   "victims_7d": 1,
   "victims_prev_7d": 3,
   "groups": 74,
   "groups_30d": 9,
   "groups_prev_30d": 9,
-  "iocs": 9,
-  "iocs_7d": 9,
+  "iocs": 10,
+  "iocs_7d": 10,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -151,7 +151,7 @@
  "top_groups_30d": [
   {
    "name": "qilin",
-   "count": 4
+   "count": 3
   },
   {
    "name": "play",
@@ -264,6 +264,10 @@
    "count": 2
   },
   {
+   "name": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+   "count": 1
+  },
+  {
    "name": "AS27823 Dattatec.com",
    "count": 1
   }
@@ -271,7 +275,7 @@
  "malware": [
   {
    "name": "Mozi",
-   "count": 3
+   "count": 4
   },
   {
    "name": "DCRat",
