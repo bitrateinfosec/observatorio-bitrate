@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:53:08Z",
+ "generated_at": "2026-11-11T01:17:12Z",
  "totals": {
   "victims": 225,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 9,
   "groups_prev_30d": 9,
-  "iocs": 12,
-  "iocs_7d": 12,
+  "iocs": 13,
+  "iocs_7d": 13,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -257,7 +257,7 @@
  "top_asns": [
   {
    "name": "AS266702 MEGALINK S.R.L.",
-   "count": 3
+   "count": 4
   },
   {
    "name": "AS27935 Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
@@ -279,7 +279,7 @@
  "malware": [
   {
    "name": "Mozi",
-   "count": 4
+   "count": 5
   },
   {
    "name": "DCRat",
