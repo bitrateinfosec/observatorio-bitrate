@@ -1,5 +1,17 @@
 [
  {
+  "value": "mandarinipropiedades.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2024445/",
+  "first_seen": "2026-11-11T09:48:00"
+ },
+ {
   "value": "http://190.196.253.97:11254/Mozi.m",
   "ioc_type": "url",
   "threat": "payload_delivery",
