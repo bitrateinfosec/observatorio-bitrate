@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-12T13:26:50Z",
+ "generated_at": "2026-11-12T15:06:39Z",
  "totals": {
-  "victims": 225,
-  "victims_30d": 11,
+  "victims": 226,
+  "victims_30d": 12,
   "victims_prev_30d": 13,
-  "victims_7d": 0,
+  "victims_7d": 1,
   "victims_prev_7d": 4,
   "groups": 74,
   "groups_30d": 9,
@@ -60,7 +60,7 @@
   },
   {
    "month": "2026-11",
-   "count": 1,
+   "count": 2,
    "partial": true
   }
  ],
@@ -71,7 +71,7 @@
   },
   {
    "name": "thegentlemen",
-   "count": 19
+   "count": 20
   },
   {
    "name": "lockbit3",
@@ -113,7 +113,7 @@
   },
   {
    "name": "thegentlemen",
-   "count": 15
+   "count": 16
   },
   {
    "name": "safepay",
@@ -154,6 +154,10 @@
    "count": 3
   },
   {
+   "name": "thegentlemen",
+   "count": 2
+  },
+  {
    "name": "play",
    "count": 1
   },
@@ -163,10 +167,6 @@
   },
   {
    "name": "nightspire",
-   "count": 1
-  },
-  {
-   "name": "thegentlemen",
    "count": 1
   }
  ],

@@ -1,5 +1,15 @@
 [
  {
+  "id": "4da6b1eab15aaf92",
+  "name": "MEGATRANS",
+  "group_name": "thegentlemen",
+  "sector": "Transporte y logística",
+  "website": "megatrans.com.ar",
+  "published": "2026-11-11T12:39:03",
+  "discovered": "2026-11-12T09:56:52",
+  "first_seen": "2026-11-12T15:06:36Z"
+ },
+ {
   "id": "75e410db64d7516a",
   "name": "Aripack",
   "group_name": "play",
