@@ -1,5 +1,29 @@
 [
  {
+  "value": "http://190.111.112.94:36088/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": "cowrie, elf, honeypot",
+  "asn": 11514,
+  "as_name": "Transdatos",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4064599/",
+  "first_seen": "2026-11-12T15:49:16"
+ },
+ {
+  "value": "http://190.111.112.94:36088/i",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": "cowrie, elf, honeypot",
+  "asn": 11514,
+  "as_name": "Transdatos",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4064591/",
+  "first_seen": "2026-11-12T15:30:12"
+ },
+ {
   "value": "mandarinipropiedades.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",

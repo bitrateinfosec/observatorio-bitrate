@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T15:06:39Z",
+ "generated_at": "2026-11-12T17:14:09Z",
  "totals": {
   "victims": 226,
   "victims_30d": 12,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 9,
   "groups_prev_30d": 9,
-  "iocs": 14,
-  "iocs_7d": 14,
+  "iocs": 16,
+  "iocs_7d": 16,
   "iocs_prev_7d": 0
  },
  "timeline": [
@@ -260,6 +260,10 @@
    "count": 4
   },
   {
+   "name": "AS11514 Transdatos",
+   "count": 2
+  },
+  {
    "name": "AS27935 Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
    "count": 2
   },
@@ -280,6 +284,10 @@
   {
    "name": "Mozi",
    "count": 5
+  },
+  {
+   "name": "cowrie, elf, honeypot",
+   "count": 2
   },
   {
    "name": "Unknown Loader",
