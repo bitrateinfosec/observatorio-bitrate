@@ -1,5 +1,29 @@
 [
  {
+  "value": "northlands.edu.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2027811/",
+  "first_seen": "2026-11-13T14:03:33"
+ },
+ {
+  "value": "estudiomunuce.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2027705/",
+  "first_seen": "2026-11-13T14:03:30"
+ },
+ {
   "value": "http://190.196.253.121:11137/Mozi.m",
   "ioc_type": "url",
   "threat": "payload_delivery",
