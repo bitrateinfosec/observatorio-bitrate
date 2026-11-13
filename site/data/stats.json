@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T11:11:07Z",
+ "generated_at": "2026-11-13T13:22:39Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 10,
-  "iocs": 17,
-  "iocs_7d": 16,
+  "iocs": 18,
+  "iocs_7d": 17,
   "iocs_prev_7d": 1
  },
  "timeline": [
@@ -257,7 +257,7 @@
  "top_asns": [
   {
    "name": "AS266702 MEGALINK S.R.L.",
-   "count": 4
+   "count": 5
   },
   {
    "name": "AS11514 Transdatos",
@@ -283,7 +283,7 @@
  "malware": [
   {
    "name": "Mozi",
-   "count": 5
+   "count": 6
   },
   {
    "name": "Unknown Loader",
