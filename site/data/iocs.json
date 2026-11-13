@@ -1,5 +1,17 @@
 [
  {
+  "value": "metalurgicasantacruz.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2027387/",
+  "first_seen": "2026-11-13T10:03:58"
+ },
+ {
   "value": "http://190.111.112.94:36088/bin.sh",
   "ioc_type": "url",
   "threat": "malware_download",
