@@ -1,5 +1,17 @@
 [
  {
+  "value": "149.104.92.194:443",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "Jackskid",
+  "asn": 154177,
+  "as_name": "LIGHT NODE LIMITED",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2028365/",
+  "first_seen": "2026-11-14T04:49:21"
+ },
+ {
   "value": "128.90.106.61:7000",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",

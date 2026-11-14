@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:59:09Z",
+ "generated_at": "2026-11-14T05:02:35Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 10,
-  "iocs": 21,
-  "iocs_7d": 20,
+  "iocs": 22,
+  "iocs_7d": 21,
   "iocs_prev_7d": 1
  },
  "timeline": [
@@ -272,6 +272,10 @@
    "count": 2
   },
   {
+   "name": "AS154177 LIGHT NODE LIMITED",
+   "count": 1
+  },
+  {
    "name": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
    "count": 1
   },
@@ -296,6 +300,10 @@
   {
    "name": "cowrie, elf, honeypot",
    "count": 2
+  },
+  {
+   "name": "Jackskid",
+   "count": 1
   },
   {
    "name": "IClickFix",
