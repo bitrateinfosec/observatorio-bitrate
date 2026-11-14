@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-13T22:53:45Z",
+ "generated_at": "2026-11-14T01:14:55Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
-  "victims_prev_30d": 14,
+  "victims_prev_30d": 12,
   "victims_7d": 1,
-  "victims_prev_7d": 4,
+  "victims_prev_7d": 3,
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 10,
@@ -121,7 +121,7 @@
   },
   {
    "name": "dragonforce",
-   "count": 6
+   "count": 5
   },
   {
    "name": "deadlock",
@@ -219,7 +219,7 @@
   },
   {
    "name": "Comercio",
-   "count": 14
+   "count": 13
   },
   {
    "name": "Salud",
