@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-14T22:48:52Z",
+ "generated_at": "2026-11-15T01:20:29Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
   "victims_prev_30d": 12,
   "victims_7d": 1,
-  "victims_prev_7d": 3,
+  "victims_prev_7d": 1,
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 10,
-  "iocs": 22,
-  "iocs_7d": 21,
-  "iocs_prev_7d": 1
+  "iocs": 23,
+  "iocs_7d": 17,
+  "iocs_prev_7d": 6
  },
  "timeline": [
   {
@@ -257,7 +257,7 @@
  "top_asns": [
   {
    "name": "AS266702 MEGALINK S.R.L.",
-   "count": 5
+   "count": 6
   },
   {
    "name": "AS40861 Paradise Networks LLC",
@@ -287,7 +287,7 @@
  "malware": [
   {
    "name": "Mozi",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Unknown Loader",
