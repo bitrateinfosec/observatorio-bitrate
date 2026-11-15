@@ -1,5 +1,17 @@
 [
  {
+  "value": "elessarcientifica.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "ClearFake",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2030578/",
+  "first_seen": "2026-11-15T20:18:44"
+ },
+ {
   "value": "www.agropol.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",

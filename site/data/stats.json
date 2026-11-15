@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:57:05Z",
+ "generated_at": "2026-11-15T20:50:22Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 10,
-  "iocs": 26,
-  "iocs_7d": 20,
+  "iocs": 27,
+  "iocs_7d": 21,
   "iocs_prev_7d": 6
  },
  "timeline": [
@@ -298,6 +298,10 @@
    "count": 3
   },
   {
+   "name": "ClearFake",
+   "count": 2
+  },
+  {
    "name": "cowrie, elf, honeypot",
    "count": 2
   },
@@ -311,10 +315,6 @@
   },
   {
    "name": "Cobalt Strike",
-   "count": 1
-  },
-  {
-   "name": "ClearFake",
    "count": 1
   }
  ]
