@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:08:29Z",
+ "generated_at": "2026-11-16T20:59:18Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 10,
-  "iocs": 27,
-  "iocs_7d": 19,
+  "iocs": 29,
+  "iocs_7d": 21,
   "iocs_prev_7d": 8
  },
  "timeline": [
@@ -260,12 +260,12 @@
    "count": 7
   },
   {
-   "name": "AS40861 Paradise Networks LLC",
+   "name": "AS11514 Transdatos",
    "count": 3
   },
   {
-   "name": "AS11514 Transdatos",
-   "count": 2
+   "name": "AS40861 Paradise Networks LLC",
+   "count": 3
   },
   {
    "name": "AS27935 Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
@@ -294,12 +294,12 @@
    "count": 7
   },
   {
-   "name": "DCRat",
+   "name": "ClearFake",
    "count": 3
   },
   {
-   "name": "ClearFake",
-   "count": 2
+   "name": "DCRat",
+   "count": 3
   },
   {
    "name": "cowrie, elf, honeypot",
