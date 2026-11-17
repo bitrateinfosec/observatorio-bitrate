@@ -1,5 +1,25 @@
 [
  {
+  "id": "2cb7534e727ec9b0",
+  "name": "DIRECTV Latin America",
+  "group_name": "thegentlemen",
+  "sector": "Tecnología",
+  "website": "directvla.com",
+  "published": "2026-11-16T23:30:04",
+  "discovered": "2026-11-17T16:51:21",
+  "first_seen": "2026-11-17T21:02:11Z"
+ },
+ {
+  "id": "c1492c77091ab957",
+  "name": "Borax Argentina",
+  "group_name": "thegentlemen",
+  "sector": "Industria",
+  "website": "boraxargentina.com",
+  "published": "2026-11-16T20:08:59",
+  "discovered": "2026-11-17T16:53:05",
+  "first_seen": "2026-11-17T21:02:11Z"
+ },
+ {
   "id": "4da6b1eab15aaf92",
   "name": "MEGATRANS",
   "group_name": "thegentlemen",
