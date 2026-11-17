@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T09:14:51Z",
+ "generated_at": "2026-11-17T11:12:46Z",
  "totals": {
   "victims": 226,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 74,
   "groups_30d": 8,
   "groups_prev_30d": 9,
-  "iocs": 29,
-  "iocs_7d": 20,
+  "iocs": 31,
+  "iocs_7d": 22,
   "iocs_prev_7d": 9
  },
  "timeline": [
@@ -286,12 +286,12 @@
  ],
  "malware": [
   {
-   "name": "Mozi",
-   "count": 8
+   "name": "Unknown Loader",
+   "count": 9
   },
   {
-   "name": "Unknown Loader",
-   "count": 7
+   "name": "Mozi",
+   "count": 8
   },
   {
    "name": "ClearFake",

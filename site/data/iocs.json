@@ -1,5 +1,29 @@
 [
  {
+  "value": "ascsrl.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2032778/",
+  "first_seen": "2026-11-17T10:06:53"
+ },
+ {
+  "value": "bioimagenesgroup.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Loader",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2032781/",
+  "first_seen": "2026-11-17T10:06:53"
+ },
+ {
   "value": "http://190.111.112.94:49235/bin.sh",
   "ioc_type": "url",
   "threat": "malware_download",
