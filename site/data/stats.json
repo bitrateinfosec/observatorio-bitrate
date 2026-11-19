@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-19T17:16:42Z",
+ "generated_at": "2026-11-19T19:12:14Z",
  "totals": {
-  "victims": 229,
-  "victims_30d": 13,
+  "victims": 230,
+  "victims_30d": 14,
   "victims_prev_30d": 9,
-  "victims_7d": 3,
+  "victims_7d": 4,
   "victims_prev_7d": 1,
-  "groups": 75,
-  "groups_30d": 9,
+  "groups": 76,
+  "groups_30d": 10,
   "groups_prev_30d": 8,
   "iocs": 31,
   "iocs_7d": 17,
@@ -60,7 +60,7 @@
   },
   {
    "month": "2026-11",
-   "count": 5,
+   "count": 6,
    "partial": true
   }
  ],
@@ -158,15 +158,15 @@
    "count": 2
   },
   {
+   "name": "soulgroup",
+   "count": 1
+  },
+  {
    "name": "aoqin",
    "count": 1
   },
   {
    "name": "play",
-   "count": 1
-  },
-  {
-   "name": "safepay",
    "count": 1
   }
  ],
@@ -200,12 +200,12 @@
    "count": 16
   },
   {
-   "name": "Otros",
+   "name": "Finanzas",
    "count": 15
   },
   {
-   "name": "Finanzas",
-   "count": 14
+   "name": "Otros",
+   "count": 15
   },
   {
    "name": "Energía y servicios públicos",

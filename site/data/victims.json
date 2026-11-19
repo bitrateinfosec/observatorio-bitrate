@@ -1,5 +1,15 @@
 [
  {
+  "id": "e1389f0a6739cd08",
+  "name": "CREDI-PAZ S.A.",
+  "group_name": "soulgroup",
+  "sector": "Finanzas",
+  "website": "credipaz.com",
+  "published": "2026-11-19T13:57:24",
+  "discovered": "2026-11-19T13:57:49",
+  "first_seen": "2026-11-19T19:12:06Z"
+ },
+ {
   "id": "c3add5a0b0b3f545",
   "name": "TopGroup",
   "group_name": "aoqin",
