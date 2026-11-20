@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:58:57Z",
+ "generated_at": "2026-11-20T01:21:20Z",
  "totals": {
   "victims": 230,
   "victims_30d": 14,
@@ -10,8 +10,8 @@
   "groups_30d": 10,
   "groups_prev_30d": 8,
   "iocs": 31,
-  "iocs_7d": 17,
-  "iocs_prev_7d": 14
+  "iocs_7d": 15,
+  "iocs_prev_7d": 15
  },
  "timeline": [
   {
