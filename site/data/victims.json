@@ -60,6 +60,16 @@
   "first_seen": "2026-11-06T00:34:49Z"
  },
  {
+  "id": "e4a2d6cb7359ec45",
+  "name": "garival.com",
+  "group_name": "settra",
+  "sector": "Comercio",
+  "website": "garival.com",
+  "published": "2026-11-04T00:00:00",
+  "discovered": "2026-11-20T19:01:02",
+  "first_seen": "2026-11-21T01:25:45Z"
+ },
+ {
   "id": "6718be94b6eaf2e2",
   "name": "everon.com.ar",
   "group_name": "safepay",

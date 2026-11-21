@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-20T22:58:04Z",
+ "generated_at": "2026-11-21T01:25:48Z",
  "totals": {
-  "victims": 230,
+  "victims": 231,
   "victims_30d": 14,
-  "victims_prev_30d": 9,
+  "victims_prev_30d": 10,
   "victims_7d": 4,
   "victims_prev_7d": 1,
-  "groups": 76,
+  "groups": 77,
   "groups_30d": 10,
-  "groups_prev_30d": 8,
+  "groups_prev_30d": 9,
   "iocs": 31,
-  "iocs_7d": 15,
-  "iocs_prev_7d": 15
+  "iocs_7d": 10,
+  "iocs_prev_7d": 20
  },
  "timeline": [
   {
@@ -60,7 +60,7 @@
   },
   {
    "month": "2026-11",
-   "count": 6,
+   "count": 7,
    "partial": true
   }
  ],
@@ -188,12 +188,12 @@
    "count": 22
   },
   {
-   "name": "Servicios profesionales",
+   "name": "Comercio",
    "count": 21
   },
   {
-   "name": "Comercio",
-   "count": 20
+   "name": "Servicios profesionales",
+   "count": 21
   },
   {
    "name": "Sector público",
@@ -219,7 +219,7 @@
   },
   {
    "name": "Comercio",
-   "count": 13
+   "count": 14
   },
   {
    "name": "Salud",
