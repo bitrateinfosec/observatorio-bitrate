@@ -1,5 +1,53 @@
 [
  {
+  "value": "viviameport.org.ar",
+  "ioc_type": "domain",
+  "threat": "cc_skimming",
+  "malware": "Skimer",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2037567/",
+  "first_seen": "2026-11-21T04:17:21"
+ },
+ {
+  "value": "redfull.com.ar",
+  "ioc_type": "domain",
+  "threat": "cc_skimming",
+  "malware": "Skimer",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2037502/",
+  "first_seen": "2026-11-21T04:17:19"
+ },
+ {
+  "value": "pmbeneficios.com.ar",
+  "ioc_type": "domain",
+  "threat": "cc_skimming",
+  "malware": "Skimer",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2037486/",
+  "first_seen": "2026-11-21T04:17:18"
+ },
+ {
+  "value": "amjarmutual.com.ar",
+  "ioc_type": "domain",
+  "threat": "cc_skimming",
+  "malware": "Skimer",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2037265/",
+  "first_seen": "2026-11-21T04:17:12"
+ },
+ {
   "value": "ascsrl.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",

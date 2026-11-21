@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:57:41Z",
+ "generated_at": "2026-11-21T05:06:10Z",
  "totals": {
   "victims": 231,
   "victims_30d": 14,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 10,
   "groups_prev_30d": 9,
-  "iocs": 31,
-  "iocs_7d": 10,
+  "iocs": 35,
+  "iocs_7d": 14,
   "iocs_prev_7d": 20
  },
  "timeline": [
@@ -294,6 +294,10 @@
    "count": 8
   },
   {
+   "name": "Skimer",
+   "count": 4
+  },
+  {
    "name": "ClearFake",
    "count": 3
   },
@@ -311,10 +315,6 @@
   },
   {
    "name": "IClickFix",
-   "count": 1
-  },
-  {
-   "name": "Cobalt Strike",
    "count": 1
   }
  ]
