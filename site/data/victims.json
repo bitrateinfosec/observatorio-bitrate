@@ -1,5 +1,15 @@
 [
  {
+  "id": "4fbcfb468c47837d",
+  "name": "pacifico.com.ar",
+  "group_name": "safepay",
+  "sector": "Finanzas",
+  "website": "pacifico.com.ar",
+  "published": "2026-11-21T18:29:39",
+  "discovered": "2026-11-21T18:29:55",
+  "first_seen": "2026-11-21T22:52:29Z"
+ },
+ {
   "id": "e1389f0a6739cd08",
   "name": "CREDI-PAZ S.A.",
   "group_name": "soulgroup",
