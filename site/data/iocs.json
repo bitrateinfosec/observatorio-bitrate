@@ -1,5 +1,17 @@
 [
  {
+  "value": "200.25.62.90:8787",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "Unknown malware",
+  "asn": 7195,
+  "as_name": "EDGEUNO S.A.S",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2047095/",
+  "first_seen": "2026-11-23T20:00:28"
+ },
+ {
   "value": "ceramicasdientedeleon.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",

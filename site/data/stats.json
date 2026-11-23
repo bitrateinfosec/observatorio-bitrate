@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:14:24Z",
+ "generated_at": "2026-11-23T21:01:49Z",
  "totals": {
   "victims": 232,
   "victims_30d": 13,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 9,
   "groups_prev_30d": 8,
-  "iocs": 38,
-  "iocs_7d": 11,
+  "iocs": 39,
+  "iocs_7d": 12,
   "iocs_prev_7d": 19
  },
  "timeline": [
@@ -272,6 +272,10 @@
    "count": 2
   },
   {
+   "name": "AS7195 EDGEUNO S.A.S",
+   "count": 1
+  },
+  {
    "name": "AS154177 LIGHT NODE LIMITED",
    "count": 1
   },
@@ -314,7 +318,7 @@
    "count": 2
   },
   {
-   "name": "Jackskid",
+   "name": "Unknown malware",
    "count": 1
   }
  ]
