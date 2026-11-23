@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-22T22:55:07Z",
+ "generated_at": "2026-11-23T01:27:54Z",
  "totals": {
   "victims": 232,
-  "victims_30d": 15,
-  "victims_prev_30d": 9,
+  "victims_30d": 13,
+  "victims_prev_30d": 11,
   "victims_7d": 5,
   "victims_prev_7d": 1,
   "groups": 77,
-  "groups_30d": 10,
+  "groups_30d": 9,
   "groups_prev_30d": 8,
-  "iocs": 35,
-  "iocs_7d": 13,
-  "iocs_prev_7d": 16
+  "iocs": 38,
+  "iocs_7d": 11,
+  "iocs_prev_7d": 19
  },
  "timeline": [
   {
@@ -121,7 +121,7 @@
   },
   {
    "name": "dragonforce",
-   "count": 5
+   "count": 4
   },
   {
    "name": "deadlock",
@@ -158,15 +158,15 @@
    "count": 2
   },
   {
-   "name": "qilin",
-   "count": 2
-  },
-  {
    "name": "soulgroup",
    "count": 1
   },
   {
    "name": "aoqin",
+   "count": 1
+  },
+  {
+   "name": "play",
    "count": 1
   }
  ],
@@ -239,7 +239,7 @@
   },
   {
    "name": "Agro y alimentos",
-   "count": 9
+   "count": 8
   },
   {
    "name": "Sin datos",
@@ -298,6 +298,10 @@
    "count": 4
   },
   {
+   "name": "Unknown Webinject",
+   "count": 3
+  },
+  {
    "name": "ClearFake",
    "count": 3
   },
@@ -311,10 +315,6 @@
   },
   {
    "name": "Jackskid",
-   "count": 1
-  },
-  {
-   "name": "IClickFix",
    "count": 1
   }
  ]

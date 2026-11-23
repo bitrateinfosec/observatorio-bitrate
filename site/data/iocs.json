@@ -1,5 +1,41 @@
 [
  {
+  "value": "ceramicasdientedeleon.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Webinject",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2040226/",
+  "first_seen": "2026-11-22T11:43:09"
+ },
+ {
+  "value": "bigfish.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Webinject",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2040184/",
+  "first_seen": "2026-11-22T11:43:07"
+ },
+ {
+  "value": "abogar.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "Unknown Webinject",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2040091/",
+  "first_seen": "2026-11-22T11:43:05"
+ },
+ {
   "value": "viviameport.org.ar",
   "ioc_type": "domain",
   "threat": "cc_skimming",
