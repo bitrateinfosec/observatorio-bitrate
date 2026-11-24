@@ -1,5 +1,17 @@
 [
  {
+  "value": "128.201.239.53:443",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "Chisel",
+  "asn": 265749,
+  "as_name": "REDES BANDA ANCHA SOLUCIONES S.R.L",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2049757/",
+  "first_seen": "2026-11-24T16:19:49"
+ },
+ {
   "value": "190.30.199.222:3000",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",

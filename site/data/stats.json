@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:15:55Z",
+ "generated_at": "2026-11-24T17:13:00Z",
  "totals": {
   "victims": 232,
   "victims_30d": 12,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 8,
   "groups_prev_30d": 8,
-  "iocs": 40,
-  "iocs_7d": 11,
+  "iocs": 41,
+  "iocs_7d": 12,
   "iocs_prev_7d": 20
  },
  "timeline": [
@@ -272,6 +272,10 @@
    "count": 2
   },
   {
+   "name": "AS265749 REDES BANDA ANCHA SOLUCIONES S.R.L",
+   "count": 1
+  },
+  {
    "name": "AS7303 Telecom Argentina S.A.",
    "count": 1
   },
@@ -281,10 +285,6 @@
   },
   {
    "name": "AS154177 LIGHT NODE LIMITED",
-   "count": 1
-  },
-  {
-   "name": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
    "count": 1
   }
  ],
