@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-23T23:04:24Z",
+ "generated_at": "2026-11-24T01:26:41Z",
  "totals": {
   "victims": 232,
-  "victims_30d": 13,
+  "victims_30d": 12,
   "victims_prev_30d": 11,
-  "victims_7d": 5,
-  "victims_prev_7d": 1,
+  "victims_7d": 3,
+  "victims_prev_7d": 3,
   "groups": 77,
-  "groups_30d": 9,
+  "groups_30d": 8,
   "groups_prev_30d": 8,
   "iocs": 39,
-  "iocs_7d": 12,
-  "iocs_prev_7d": 19
+  "iocs_7d": 10,
+  "iocs_prev_7d": 20
  },
  "timeline": [
   {
