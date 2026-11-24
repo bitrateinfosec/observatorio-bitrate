@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:33:49Z",
+ "generated_at": "2026-11-24T09:21:10Z",
  "totals": {
   "victims": 232,
   "victims_30d": 12,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 8,
   "groups_prev_30d": 8,
-  "iocs": 39,
-  "iocs_7d": 10,
+  "iocs": 40,
+  "iocs_7d": 11,
   "iocs_prev_7d": 20
  },
  "timeline": [
@@ -272,6 +272,10 @@
    "count": 2
   },
   {
+   "name": "AS7303 Telecom Argentina S.A.",
+   "count": 1
+  },
+  {
    "name": "AS7195 EDGEUNO S.A.S",
    "count": 1
   },
@@ -281,10 +285,6 @@
   },
   {
    "name": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-   "count": 1
-  },
-  {
-   "name": "AS27823 Dattatec.com",
    "count": 1
   }
  ],
@@ -314,12 +314,12 @@
    "count": 3
   },
   {
-   "name": "cowrie, elf, honeypot",
+   "name": "Unknown malware",
    "count": 2
   },
   {
-   "name": "Unknown malware",
-   "count": 1
+   "name": "cowrie, elf, honeypot",
+   "count": 2
   }
  ]
 }

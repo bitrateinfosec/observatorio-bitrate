@@ -1,5 +1,17 @@
 [
  {
+  "value": "190.30.199.222:3000",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "Unknown malware",
+  "asn": 7303,
+  "as_name": "Telecom Argentina S.A.",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2048332/",
+  "first_seen": "2026-11-24T08:21:39"
+ },
+ {
   "value": "200.25.62.90:8787",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",
