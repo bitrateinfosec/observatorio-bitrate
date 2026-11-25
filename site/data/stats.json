@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:20:46Z",
+ "generated_at": "2026-11-25T17:14:04Z",
  "totals": {
   "victims": 232,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 7,
   "groups_prev_30d": 9,
-  "iocs": 41,
-  "iocs_7d": 10,
+  "iocs": 42,
+  "iocs_7d": 11,
   "iocs_prev_7d": 19
  },
  "timeline": [
@@ -298,15 +298,15 @@
    "count": 8
   },
   {
+   "name": "ClearFake",
+   "count": 4
+  },
+  {
    "name": "Skimer",
    "count": 4
   },
   {
    "name": "Unknown Webinject",
-   "count": 3
-  },
-  {
-   "name": "ClearFake",
    "count": 3
   },
   {

@@ -1,5 +1,17 @@
 [
  {
+  "value": "consorsur.com.ar",
+  "ioc_type": "domain",
+  "threat": "payload_delivery",
+  "malware": "ClearFake",
+  "asn": null,
+  "as_name": null,
+  "reason": "dominio .ar",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2051722/",
+  "first_seen": "2026-11-25T16:49:46"
+ },
+ {
   "value": "128.201.239.53:443",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",
