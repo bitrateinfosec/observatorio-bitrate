@@ -1,5 +1,29 @@
 [
  {
+  "value": "http://200.81.161.26:49974/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": null,
+  "asn": 10617,
+  "as_name": "SION S.A",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4076924/",
+  "first_seen": "2026-11-26T20:17:06"
+ },
+ {
+  "value": "http://200.81.161.26:49974/i",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": null,
+  "asn": 10617,
+  "as_name": "SION S.A",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4076903/",
+  "first_seen": "2026-11-26T19:46:07"
+ },
+ {
   "value": "consorsur.com.ar",
   "ioc_type": "domain",
   "threat": "payload_delivery",
