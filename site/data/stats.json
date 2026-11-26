@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-25T23:06:05Z",
+ "generated_at": "2026-11-26T01:30:14Z",
  "totals": {
   "victims": 232,
   "victims_30d": 11,
   "victims_prev_30d": 12,
-  "victims_7d": 3,
+  "victims_7d": 2,
   "victims_prev_7d": 3,
   "groups": 77,
   "groups_30d": 7,
   "groups_prev_30d": 9,
   "iocs": 42,
   "iocs_7d": 11,
-  "iocs_prev_7d": 19
+  "iocs_prev_7d": 17
  },
  "timeline": [
   {
