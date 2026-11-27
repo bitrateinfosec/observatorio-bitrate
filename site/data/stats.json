@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:11:28Z",
+ "generated_at": "2026-11-27T21:08:33Z",
  "totals": {
   "victims": 232,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 7,
   "groups_prev_30d": 9,
-  "iocs": 45,
-  "iocs_7d": 14,
+  "iocs": 46,
+  "iocs_7d": 15,
   "iocs_prev_7d": 15
  },
  "timeline": [
@@ -272,6 +272,10 @@
    "count": 3
   },
   {
+   "name": "AS27823 Dattatec.com",
+   "count": 2
+  },
+  {
    "name": "AS27935 Cooperativa de provicion de servicios telefonicos La Lonja Ltda",
    "count": 2
   },
@@ -281,10 +285,6 @@
   },
   {
    "name": "AS7303 Telecom Argentina S.A.",
-   "count": 1
-  },
-  {
-   "name": "AS7195 EDGEUNO S.A.S",
    "count": 1
   }
  ],
@@ -306,16 +306,16 @@
    "count": 4
   },
   {
+   "name": "Unknown malware",
+   "count": 3
+  },
+  {
    "name": "Unknown Webinject",
    "count": 3
   },
   {
    "name": "DCRat",
    "count": 3
-  },
-  {
-   "name": "Unknown malware",
-   "count": 2
   },
   {
    "name": "cowrie, elf, honeypot",

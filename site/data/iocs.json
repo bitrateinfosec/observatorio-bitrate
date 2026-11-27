@@ -1,5 +1,17 @@
 [
  {
+  "value": "149.50.143.199:443",
+  "ioc_type": "ip:port",
+  "threat": "botnet_cc",
+  "malware": "Unknown malware",
+  "asn": 27823,
+  "as_name": "Dattatec.com",
+  "reason": "IP geolocalizada en AR",
+  "source": "threatfox",
+  "reference": "https://threatfox.abuse.ch/ioc/2056560/",
+  "first_seen": "2026-11-27T20:32:07"
+ },
+ {
   "value": "http://216.244.199.249:57445/bin.sh",
   "ioc_type": "url",
   "threat": "malware_download",
