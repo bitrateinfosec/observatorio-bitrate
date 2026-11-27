@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T03:11:54Z",
+ "generated_at": "2026-11-27T05:22:55Z",
  "totals": {
   "victims": 232,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 7,
   "groups_prev_30d": 9,
-  "iocs": 44,
-  "iocs_7d": 13,
+  "iocs": 45,
+  "iocs_7d": 14,
   "iocs_prev_7d": 15
  },
  "timeline": [
@@ -260,16 +260,16 @@
    "count": 7
   },
   {
+   "name": "AS10617 SION S.A",
+   "count": 3
+  },
+  {
    "name": "AS11514 Transdatos",
    "count": 3
   },
   {
    "name": "AS40861 Paradise Networks LLC",
    "count": 3
-  },
-  {
-   "name": "AS10617 SION S.A",
-   "count": 2
   },
   {
    "name": "AS27935 Cooperativa de provicion de servicios telefonicos La Lonja Ltda",

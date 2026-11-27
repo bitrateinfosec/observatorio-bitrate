@@ -1,5 +1,17 @@
 [
  {
+  "value": "http://216.244.199.249:57445/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": null,
+  "asn": 10617,
+  "as_name": "SION S.A",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4077021/",
+  "first_seen": "2026-11-27T05:17:08"
+ },
+ {
   "value": "http://200.81.161.26:49974/bin.sh",
   "ioc_type": "url",
   "threat": "malware_download",
