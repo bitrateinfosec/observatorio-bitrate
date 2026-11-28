@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T11:00:42Z",
+ "generated_at": "2026-11-28T13:13:41Z",
  "totals": {
   "victims": 232,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 7,
   "groups_prev_30d": 8,
-  "iocs": 47,
-  "iocs_7d": 16,
+  "iocs": 50,
+  "iocs_7d": 19,
   "iocs_prev_7d": 10
  },
  "timeline": [
@@ -261,7 +261,7 @@
   },
   {
    "name": "AS10617 SION S.A",
-   "count": 4
+   "count": 5
   },
   {
    "name": "AS11514 Transdatos",
@@ -280,11 +280,11 @@
    "count": 2
   },
   {
-   "name": "AS265749 REDES BANDA ANCHA SOLUCIONES S.R.L",
+   "name": "AS52465 WNet Internet y Hosting",
    "count": 1
   },
   {
-   "name": "AS7303 Telecom Argentina S.A.",
+   "name": "AS16814 NSS S.A.",
    "count": 1
   }
  ],
@@ -306,6 +306,10 @@
    "count": 4
   },
   {
+   "name": "hajime",
+   "count": 3
+  },
+  {
    "name": "Unknown malware",
    "count": 3
   },
@@ -316,10 +320,6 @@
   {
    "name": "DCRat",
    "count": 3
-  },
-  {
-   "name": "cowrie, elf, honeypot",
-   "count": 2
   }
  ]
 }

@@ -1,5 +1,41 @@
 [
  {
+  "value": "http://179.60.216.19:65020/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": "hajime",
+  "asn": 52465,
+  "as_name": "WNet Internet y Hosting",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4078980/",
+  "first_seen": "2026-11-28T13:06:47"
+ },
+ {
+  "value": "http://216.244.249.191:8104/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": "hajime",
+  "asn": 10617,
+  "as_name": "SION S.A",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4078908/",
+  "first_seen": "2026-11-28T13:06:29"
+ },
+ {
+  "value": "http://200.61.163.235:27538/bin.sh",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": "hajime",
+  "asn": 16814,
+  "as_name": "NSS S.A.",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4078867/",
+  "first_seen": "2026-11-28T13:06:21"
+ },
+ {
   "value": "http://216.244.199.249:57445/i",
   "ioc_type": "url",
   "threat": "malware_download",
