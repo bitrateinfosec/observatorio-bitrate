@@ -1,5 +1,17 @@
 [
  {
+  "value": "http://216.244.199.249:57445/i",
+  "ioc_type": "url",
+  "threat": "malware_download",
+  "malware": "Mozi",
+  "asn": 10617,
+  "as_name": "SION S.A",
+  "reason": "IP geolocalizada en AR",
+  "source": "urlhaus",
+  "reference": "https://urlhaus.abuse.ch/url/4078718/",
+  "first_seen": "2026-11-28T10:58:05"
+ },
+ {
   "value": "149.50.143.199:443",
   "ioc_type": "ip:port",
   "threat": "botnet_cc",

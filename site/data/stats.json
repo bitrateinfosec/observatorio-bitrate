@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:02:35Z",
+ "generated_at": "2026-11-28T11:00:42Z",
  "totals": {
   "victims": 232,
   "victims_30d": 11,
@@ -9,8 +9,8 @@
   "groups": 77,
   "groups_30d": 7,
   "groups_prev_30d": 8,
-  "iocs": 46,
-  "iocs_7d": 15,
+  "iocs": 47,
+  "iocs_7d": 16,
   "iocs_prev_7d": 10
  },
  "timeline": [
@@ -261,7 +261,7 @@
   },
   {
    "name": "AS10617 SION S.A",
-   "count": 3
+   "count": 4
   },
   {
    "name": "AS11514 Transdatos",
@@ -290,12 +290,12 @@
  ],
  "malware": [
   {
-   "name": "Unknown Loader",
+   "name": "Mozi",
    "count": 9
   },
   {
-   "name": "Mozi",
-   "count": 8
+   "name": "Unknown Loader",
+   "count": 9
   },
   {
    "name": "ClearFake",
